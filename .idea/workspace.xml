@@ -2,245 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="309219a0-a3e9-4c1b-b28e-0b0e339e485a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 flask框架/10-图书案例/author_book.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/001.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/002.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/003.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/008.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/1-100之间的偶数.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/1-100累积和.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/99乘法表.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/Python函数实现学生管理系统-文件版.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/Python函数实现学生管理系统.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/Python函数打印横线.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/Python函数打印自定义行数横线.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/Python函数求3个数的和.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/Python打印佛祖.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/Python打印网页.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/Python求3个数的平均值.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/__new__方法.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/break.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/cfjdstb.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/del方法.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/huamingce (2).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/huamingce.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/jdstb.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/dafeiji.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/New Atlas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/bomb-1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/bomb-2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/bomb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/btn_finish.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/bullet-1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/bullet-2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/bullet-3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/bullet1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/bullet2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/button_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/button_p.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/enemy-1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/enemy-2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/enemy-3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/enemy0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/enemy0_down1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/enemy0_down2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/enemy0_down3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/enemy0_down4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/enemy1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/enemy1_down1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/enemy1_down2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/enemy1_down3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/enemy1_down4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/enemy1_hit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/enemy2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/enemy2_down1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/enemy2_down2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/enemy2_down3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/enemy2_down4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/enemy2_down5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/enemy2_down6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/enemy2_hit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/enemy2_n2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/game_loading1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/game_loading2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/game_loading3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/game_loading4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/game_pause_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/game_pause_pressed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/game_resume_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/game_resume_pressed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/gameover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/hero.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/hero1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/hero2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/hero_blowup_n1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/hero_blowup_n2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/hero_blowup_n3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/hero_blowup_n4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/icon72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/loading.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/name.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/plane.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/progress.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/prop_type_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/prop_type_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/quit_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/quit_sel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/restart_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/restart_sel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/resume_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/pygame打飞机游戏/feiji/resume_sel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/python实现文件批量删除重命名.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/python实现文件批量添加重命名.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/test/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/test/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/while嵌套.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/九九乘法表.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/使用循环完成阶乘.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/使用递归函数完成阶乘.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/函数.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/函数参数.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/列表嵌套.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/列表常用操作.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/单例模式.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/名字管理系统.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/名片管理系统.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/多继承.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/存放家具.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/学生管理系统.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/定义类.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/工厂方法.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/异常处理.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/怎么查私有属性.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/dafeiji.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/New Atlas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/bomb-1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/bomb-2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/bomb.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/btn_finish.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/bullet-1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/bullet-2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/bullet-3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/bullet1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/bullet2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/button_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/button_p.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/enemy-1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/enemy-2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/enemy-3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/enemy0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/enemy0_down1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/enemy0_down2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/enemy0_down3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/enemy0_down4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/enemy1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/enemy1_down1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/enemy1_down2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/enemy1_down3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/enemy1_down4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/enemy1_hit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/enemy2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/enemy2_down1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/enemy2_down2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/enemy2_down3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/enemy2_down4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/enemy2_down5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/enemy2_down6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/enemy2_hit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/enemy2_n2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/game_loading1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/game_loading2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/game_loading3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/game_loading4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/game_pause_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/game_pause_pressed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/game_resume_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/game_resume_pressed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/gameover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/hero.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/hero1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/hero2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/hero_blowup_n1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/hero_blowup_n2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/hero_blowup_n3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/hero_blowup_n4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/icon72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/loading.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/name.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/plane.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/progress.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/prop_type_0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/prop_type_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/quit_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/quit_sel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/restart_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/restart_sel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/resume_nor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/打飞机/feiji/resume_sel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/文件复制.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/烤地瓜.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/私有属性.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/类对象.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/老王开枪.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/老王开枪重写.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/自定义异常.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/设计蛋糕店类-工厂模式.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/设计蛋糕店类.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/基础班/面试题.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/01面试题.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/02属性区别.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/03正则表达式.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/Process.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/TCP客户端.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/TCP服务器.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/TFTP下载器.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/gevent服务器.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/python多线程实现聊天程序.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/python聊天室.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/udp接受数据.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/web服务器笔记.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/wsgipy/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/wsgipy/m_hello.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/wsgipy/m_time.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/作用域.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/创建udp通信.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/动态web服务器.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/匹配网址.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/协程-greenlet版.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/协程.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/单进程非阻塞服务器.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/多进程拷贝文件.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/提取url.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/数据结构和算法/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/数据结构和算法/python列表类型的不同操作执行效率.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/数据结构和算法/时间复杂度.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/数据结构和算法/面试题.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/数据结构和算法/面试题优化.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/正则" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/正则0-100的数字.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/正则匹配邮箱.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/正则当中的贪婪模式.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/正则提取文本.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/正则网页路径.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/正则表达式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/装饰器.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/进程池.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/01练习/静态web服务器.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2017/就业班/__init__.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/15 flask框架/10-图书案例/templates/author_book.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 flask框架/10-图书案例/author_book.py" beforeDir="false" afterPath="$PROJECT_DIR$/15 flask框架/10-图书案例/author_book.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -250,14 +14,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/15 flask框架/10-图书案例/author_book.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+            <state relative-caret-position="156">
+              <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
               <folding>
                 <element signature="e#15#38#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/15 flask框架/10-图书案例/templates/author_book.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -268,6 +41,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -278,6 +52,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/15 flask框架/10-图书案例/author_book.py" />
+        <option value="$PROJECT_DIR$/15 flask框架/10-图书案例/templates/author_book.html" />
       </list>
     </option>
   </component>
@@ -308,6 +83,12 @@
               <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
               <item name="15 flask框架" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="15 flask框架" type="462c0819:PsiDirectoryNode" />
+              <item name="10-图书案例" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -315,6 +96,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
@@ -341,12 +123,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548166560591</updated>
-      <workItem from="1548166567178" duration="2720000" />
+      <workItem from="1548166567178" duration="3627000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2720000" />
+    <option name="totallyTimeSpent" value="3627000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="965" y="33" width="945" height="968" extended-state="0" />
@@ -381,11 +163,18 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/15 flask框架/10-图书案例/author_book.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+        <state relative-caret-position="156">
+          <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
           <folding>
             <element signature="e#15#38#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15 flask框架/10-图书案例/templates/author_book.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>

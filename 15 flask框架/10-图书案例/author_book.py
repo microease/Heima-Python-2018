@@ -1,5 +1,5 @@
 # coding=utf-8
-from flask import Flask
+from flask import Flask, render_template
 from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
@@ -31,5 +31,13 @@ class Book(db.Model):
     author_id = db.Column(db.Integer, db.ForeignKey("tbl_author.id"))
 
 
+@app.route("/")
+def index():
+    author_li = Author.query.all()
+    return render_template("author_book.html", authors = author_li)
+
+
 if __name__ == '__main__':
+    db.drop_all()
+    db.create_all()
     app.run(debug=True)
