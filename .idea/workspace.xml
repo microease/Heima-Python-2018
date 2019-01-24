@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="309219a0-a3e9-4c1b-b28e-0b0e339e485a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/15 flask框架/10-图书案例/templates/author_book.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15 flask框架/10-图书案例/author_book.py" beforeDir="false" afterPath="$PROJECT_DIR$/15 flask框架/10-图书案例/author_book.py" afterDir="false" />
-    </list>
+    <list default="true" id="309219a0-a3e9-4c1b-b28e-0b0e339e485a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/15 flask框架/10-图书案例/templates/author_book.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="84">
+              <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -123,12 +119,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548166560591</updated>
-      <workItem from="1548166567178" duration="3627000" />
+      <workItem from="1548166567178" duration="4317000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3627000" />
+    <option name="totallyTimeSpent" value="4317000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="965" y="33" width="945" height="968" extended-state="0" />
@@ -173,8 +169,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/15 flask框架/10-图书案例/templates/author_book.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="84">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="26" />
         </state>
       </provider>
     </entry>
