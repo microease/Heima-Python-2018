@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="309219a0-a3e9-4c1b-b28e-0b0e339e485a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/15 flask框架/13-使用蓝图划分模块/cart/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 flask框架/13-使用蓝图划分模块/cart/templates/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 flask框架/13-使用蓝图划分模块/cart/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 flask框架/13-使用蓝图划分模块/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 flask框架/13-使用蓝图划分模块/orders.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15 flask框架/14-单元测试/断言.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="309219a0-a3e9-4c1b-b28e-0b0e339e485a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +14,7 @@
         <entry file="file://$PROJECT_DIR$/15 flask框架/14-单元测试/断言.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -55,7 +47,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -119,17 +111,17 @@
       <workItem from="1548320162127" duration="1703000" />
       <workItem from="1548379058388" duration="7703000" />
       <workItem from="1548397030126" duration="6022000" />
+      <workItem from="1548464696226" duration="272000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19055000" />
+    <option name="totallyTimeSpent" value="19327000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="1" />
-    <editor active="true" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24617068" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25164112" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -244,7 +236,7 @@
     <entry file="file://$PROJECT_DIR$/15 flask框架/14-单元测试/断言.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
