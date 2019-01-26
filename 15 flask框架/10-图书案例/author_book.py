@@ -1,6 +1,10 @@
 # coding=utf-8
 from flask import Flask, render_template
 from flask_sqlalchemy import SQLAlchemy
+from flask_wtf import FlaskForm
+from wtforms import StringField, SubmitField
+from flask_script import Manager
+from flask_migrate import Migrate,
 
 app = Flask(__name__)
 
@@ -14,7 +18,12 @@ class Config(object):
 
 app.config.from_object(Config)
 db = SQLAlchemy(app)
-
+# 创建Flask 脚本管理工具对象
+manager = Manager(app)
+# 创建数据库迁移工具对象
+Migrate(app,db)
+# 向manager对象中添加数据库的操作命令
+manager.add_command()
 
 class Author(db.Model):
     # 作者
@@ -34,10 +43,13 @@ class Book(db.Model):
 @app.route("/")
 def index():
     author_li = Author.query.all()
-    return render_template("author_book.html", authors = author_li)
+    return render_template("author_book.html", authors=author_li)
 
 
 if __name__ == '__main__':
     db.drop_all()
     db.create_all()
-    app.run(debug=True)
+    # app.run(debug=True)
+    manager.run()
+
+
