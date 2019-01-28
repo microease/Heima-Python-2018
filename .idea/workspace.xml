@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a084d22e-9adf-4abf-aad7-ddad2616d5f4" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/15 flask框架/10-图书案例/test_author_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15 flask框架/15-flask部署/sqlsalchemy操作mysql.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15 flask框架/14-单元测试/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/15 flask框架/14-单元测试/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 flask框架/10-图书案例/test_author_book.py" beforeDir="false" afterPath="$PROJECT_DIR$/15 flask框架/10-图书案例/test_author_book.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,15 +18,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/15 flask框架/10-图书案例/test_author_book.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
-              <folding>
-                <element signature="e#15#30#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/15 flask框架/15-flask部署/sqlsalchemy操作mysql.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -49,11 +42,12 @@
         <option value="$PROJECT_DIR$/15 flask框架/14-单元测试/test.py" />
         <option value="$PROJECT_DIR$/15 flask框架/14-单元测试/test_author_book.py" />
         <option value="$PROJECT_DIR$/15 flask框架/10-图书案例/test_author_book.py" />
+        <option value="$PROJECT_DIR$/15 flask框架/15-flask部署/sqlsalchemy操作mysql.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="835" />
+    <option name="x" value="790" />
     <option name="width" value="1092" />
     <option name="height" value="1047" />
   </component>
@@ -76,18 +70,6 @@
               <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
               <item name="15 flask框架" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="15 flask框架" type="462c0819:PsiDirectoryNode" />
-              <item name="10-图书案例" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="15 flask框架" type="462c0819:PsiDirectoryNode" />
-              <item name="14-单元测试" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -159,15 +141,15 @@
       <option name="presentableId" value="Default" />
       <updated>1548466174136</updated>
       <workItem from="1548466176259" duration="11535000" />
-      <workItem from="1548639474830" duration="3582000" />
+      <workItem from="1548639474830" duration="7045000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15117000" />
+    <option name="totallyTimeSpent" value="18580000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="835" y="0" width="1092" height="1047" extended-state="0" />
+    <frame x="790" y="0" width="1092" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.249031" />
@@ -224,13 +206,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/15 flask框架/10-图书案例/test_author_book.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" column="57" selection-start-line="8" selection-start-column="57" selection-end-line="8" selection-end-column="57" />
+        <state relative-caret-position="616">
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
           <folding>
             <element signature="e#15#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15 flask框架/15-flask部署/sqlsalchemy操作mysql.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
