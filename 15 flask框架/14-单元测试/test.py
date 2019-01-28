@@ -6,6 +6,10 @@ import json
 
 class LoginTest(unittest.TestCase):
     def setUp(self):
+        # 设置flask工作在测试模式下
+        # app.config["TESTING"] = True
+        app.testing = True
+
         self.client = app.test_client()
 
     def test_empty_user_name_password(self):
@@ -39,6 +43,10 @@ class LoginTest(unittest.TestCase):
     def test_wrong_user_name_password(self):
         # 测试用户名或者密码错误的情况
         ret = self.client.post("/login", data={"user_name": "huyankai", "password": "huyankai"})
+        resp = ret.data
+        resp = json.loads(resp)
+        self.assertIn("code", resp)
+        self.assertEqual(resp["code"], 2)
 
     if __name__ == '__main__':
         unittest.main()
