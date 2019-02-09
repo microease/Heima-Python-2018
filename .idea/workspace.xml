@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a084d22e-9adf-4abf-aad7-ddad2616d5f4" name="默认" comment="" />
+    <list default="true" id="a084d22e-9adf-4abf-aad7-ddad2616d5f4" name="默认" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +38,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="790" />
-    <option name="width" value="1092" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="720" />
+    <option name="width" value="1162" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -127,17 +129,17 @@
       <updated>1548466174136</updated>
       <workItem from="1548466176259" duration="11535000" />
       <workItem from="1548639474830" duration="7651000" />
-      <workItem from="1548744446448" duration="344000" />
+      <workItem from="1548744446448" duration="751000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19530000" />
+    <option name="totallyTimeSpent" value="19937000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="790" y="0" width="1092" height="1047" extended-state="0" />
+    <frame x="720" y="0" width="1162" height="1047" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25387597" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23774955" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
