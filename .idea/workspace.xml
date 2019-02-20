@@ -1,7 +1,245 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a084d22e-9adf-4abf-aad7-ddad2616d5f4" name="默认" comment="" />
+    <list default="true" id="a084d22e-9adf-4abf-aad7-ddad2616d5f4" name="默认" comment="">
+      <change afterPath="$PROJECT_DIR$/15期/00Python基础/1-2 python基础/11-while循环基本使用/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/00Python基础/1-2 python基础/12-循环嵌套/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/00Python基础/1-2 python基础/13-函数的基本使用/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/00Python基础/1-2 python基础/14-函数的参数和返回值/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/00Python基础/1-2 python基础/15-函数的嵌套调用/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/00Python基础/1-2 python基础/17-列表/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/00Python基础/1-2 python基础/18-元祖/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/00Python基础/1-2 python基础/19-字典/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/00Python基础/1-2 python基础/20-字符串/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/00Python基础/1-2 python基础/22-名片管理系统/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/00Python基础/1-2 python基础/24-局部变量和全局变量/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/00Python基础/1-2 python基础/25-函数的返回值和参数进阶/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/00Python基础/1-2 python基础/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/00Python基础/1-3 面向对象/01-面向对象基础/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/00Python基础/1-3 面向对象/02-面向对象练习/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/00Python基础/1-3 面向对象/07-类属性、类方法、静态方法/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/00Python基础/1-3 面向对象/10-模块和包/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/00Python基础/1-3 面向对象/11-文件操作/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/00Python基础/1-3 面向对象/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/00Python基础/1-4 项目飞机大战/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/00Python基础/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/01 网络编程/02-udp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/01 网络编程/03-tcp客户端/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/01 网络编程/04-tcp服务器/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/01 网络编程/05-tcp下载文件/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/01 网络编程/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/02 多任务/01-线程/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/02 多任务/02-进程/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/02 多任务/02-进程/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/02 多任务/03-协程/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/02 多任务/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/03 web服务器v3.1/01-正则表达式/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/03 web服务器v3.1/03-简单web服务器实现/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/03 web服务器v3.1/04-并发web服务器实现/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/03 web服务器v3.1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/04 Python高级语法v3.1/01-GIL锁/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/04 Python高级语法v3.1/02-深拷贝和浅拷贝/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/04 Python高级语法v3.1/06-自习/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/04 Python高级语法v3.1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/05 MySQL数据库v3.1/03-MySQL与Python交互/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/05 MySQL数据库v3.1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/06 mini-web框架v3.1/01-WSGI-mini-web框架/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/06 mini-web框架v3.1/02-闭包/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/06 mini-web框架v3.1/04-mini-web框架添加路由和MySQL功能/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/06 mini-web框架v3.1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/15 flask框架/10-图书案例/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/15 flask框架/11-数据库迁移扩展包Flask-Migrate、 邮件扩展包Flask-Mail/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/15 flask框架/13-使用蓝图划分模块/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/15 flask框架/14-单元测试/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/15 flask框架/15-flask部署/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/15 flask框架/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/02-第一个程序/001_hello_world.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/07-变量的计算和输入输出/01-input.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/07-变量的计算和输入输出/01-字符串拼接.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/07-变量的计算和输入输出/03-买苹果.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/09-if判断语句/01_判断年龄.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/09-if判断语句/02_多条件判断.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/09-if判断语句/03_多条件判断2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/09-if判断语句/03_多条件判断3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/09-if判断语句/04_火车站安检.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/10-石头剪刀布/01-石头剪刀布.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/10-石头剪刀布/02-改进.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/11-while循环基本使用/01while循环.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/11-while循环基本使用/02-0到100累积求和.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/11-while循环基本使用/03-0到100偶数求和.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/12-循环嵌套/01-break和continue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/12-循环嵌套/02-小星星.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/12-循环嵌套/03-99乘法表.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/13-函数的基本使用/02-调用函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/13-函数的基本使用/03-第一个函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/13-函数的基本使用/九九乘法表函数版.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/14-函数的参数和返回值/01-函数的参数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/15-函数的嵌套调用/01-函数的嵌套调用.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/15-函数的嵌套调用/02-打印分割线.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/17-列表/01-第一个列表.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/18-元祖/01-第一个元祖.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/19-字典/01-第一个字典.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/20-字符串/01-第一个字符串.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/22-名片管理系统/cards_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/15期/00Python基础/1-2 python基础/02-第一个程序/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/22-名片管理系统/cards_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/22-名片管理系统/cards_tools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/24-局部变量和全局变量/001-局部变量.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/24-局部变量和全局变量/002-全局变量.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/25-函数的返回值和参数进阶/01-交换两个数字的值.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/25-函数的返回值和参数进阶/02-多值参数求和.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/25-函数的返回值和参数进阶/03-元祖和字典的拆包.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/25-函数的返回值和参数进阶/04-第一个递归程序.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-2 python基础/25-函数的返回值和参数进阶/05-递归实现数字累积.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/01-面向对象基础/01-第一个面向对象程序.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/01-面向对象基础/02-设置对象属性.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/01-面向对象基础/03-初始化方法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/01-面向对象基础/04-利用参数设置初始值.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/01-面向对象基础/05-del和str方法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/02-面向对象练习/01-小明爱跑步.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/02-面向对象练习/02-摆放家具.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/02-面向对象练习/03-士兵突击.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/02-面向对象练习/04-私有方法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/02-面向对象练习/05-继承.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/02-面向对象练习/06-多继承.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/07-类属性、类方法、静态方法/01-类属性.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/07-类属性、类方法、静态方法/02-类方法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/07-类属性、类方法、静态方法/03-静态方法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/07-类属性、类方法、静态方法/04-方法综合案例.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/08-单例模式/01-new方法.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/08-单例模式/02-单例.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/09-异常/01-简单捕获异常.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/09-异常/02-捕获错误类型.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/09-异常/03-主动抛出异常.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/10-模块和包/01-导入包.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/10-模块和包/hyk_message/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/10-模块和包/hyk_message/receive_message.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/10-模块和包/hyk_message/send_message.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/10-模块和包/setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/11-文件操作/01-读取文件.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-3 面向对象/11-文件操作/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/feiji.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/again.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/bomb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/bomb_supply.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/bullet1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/bullet2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/bullet_supply.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/enemy1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/enemy1_down1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/enemy1_down2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/enemy1_down3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/enemy1_down4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/enemy2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/enemy2_down1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/enemy2_down2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/enemy2_down3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/enemy2_down4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/enemy2_hit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/enemy3_down1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/enemy3_down2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/enemy3_down3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/enemy3_down4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/enemy3_down5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/enemy3_down6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/enemy3_hit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/enemy3_n1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/enemy3_n2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/gameover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/life.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/me1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/me2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/me_destroy_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/me_destroy_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/me_destroy_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/me_destroy_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/pause_nor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/pause_pressed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/resume_nor.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/images/resume_pressed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/plane_main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/00Python基础/1-4 项目飞机大战/plane_sprites.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 网络编程/02-udp/01-发送数据demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 网络编程/02-udp/02-绑定端口用来接收数据.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 网络编程/02-udp/03-udp聊天程序.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 网络编程/03-tcp客户端/01-tcp客户端.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 网络编程/04-tcp服务器/01-tcp服务器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 网络编程/05-tcp下载文件/tcp下载文件.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01 网络编程/05-tcp下载文件/tcp下载文件2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/01-线程/01-没有多任务.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/01-线程/02-线程.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/01-线程/03-查看正在运行的线程.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/01-线程/04-多线程共享全局变量.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/01-线程/05-多线程共享全局变量2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/01-线程/06-使用互斥锁解决资源竞争的问题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/01-线程/07-多任务版UDP聊天器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/02-进程/01-使用进程创建多任务.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/02-进程/02-通过队列完成进程中通信.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/02-进程/03-多进程中通过Queue实现数据共享.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/02-进程/04-进程池.py" beforeDir="false" afterPath="$PROJECT_DIR$/15期/00Python基础/1-2 python基础/07-变量的计算和输入输出/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/02-进程/05-文件夹拷贝器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/02-进程/test/01-使用进程创建多任务.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/02-进程/test/02-通过队列完成进程中通信.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/02-进程/test/03-多进程中通过Queue实现数据共享.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/02-进程/test/04-进程池.py" beforeDir="false" afterPath="$PROJECT_DIR$/15期/00Python基础/1-2 python基础/09-if判断语句/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/03-协程/01-自己实现一个可以迭代的对象.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/03-协程/02-斐波那契数列-迭代器实现.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/03-协程/03-斐波那契数列-生成器实现.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/03-协程/04-通过send启动生成器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/03-协程/05-使用yield完成多任务.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/03-协程/06-greenlet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/03-协程/07-gevent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/03-协程/08-并发图片下载器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/03-协程/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02 多任务/03-协程/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 web服务器v3.1/01-正则表达式/01-正则测试.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 web服务器v3.1/01-正则表达式/02-判断变量名是否符合要求.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 web服务器v3.1/01-正则表达式/03-匹配163邮箱地址.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 web服务器v3.1/03-简单web服务器实现/01-返回固定页面的web服务器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 web服务器v3.1/03-简单web服务器实现/02-返回浏览器需要的页面服务器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 web服务器v3.1/04-并发web服务器实现/01-多进程实现服务器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 web服务器v3.1/04-并发web服务器实现/02-多线程实现服务器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 web服务器v3.1/04-并发web服务器实现/03-gevent实现服务器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 web服务器v3.1/04-并发web服务器实现/04-单进程单进程非阻塞.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 web服务器v3.1/04-并发web服务器实现/05-长连接服务器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/03 web服务器v3.1/04-并发web服务器实现/06-epoll服务器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 Python高级语法v3.1/01-GIL锁/01-单线程死循环.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 Python高级语法v3.1/01-GIL锁/02-多进程死循环.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 Python高级语法v3.1/01-GIL锁/03-C语言.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 Python高级语法v3.1/02-深拷贝和浅拷贝/01-浅拷贝.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 Python高级语法v3.1/02-深拷贝和浅拷贝/02-深拷贝.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 Python高级语法v3.1/06-自习/01-列表推导式.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 Python高级语法v3.1/06-自习/02-上下文管理器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 Python高级语法v3.1/06-自习/03-装饰器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 Python高级语法v3.1/06-自习/04-切片.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 Python高级语法v3.1/06-自习/05-迭代.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 Python高级语法v3.1/06-自习/06-map函数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/04 Python高级语法v3.1/06-自习/07-闭包.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 MySQL数据库v3.1/02-mysql查询/sql查询笔记.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 MySQL数据库v3.1/03-MySQL与Python交互/01-笔记.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/05 MySQL数据库v3.1/03-MySQL与Python交互/02-连接数据库.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06 mini-web框架v3.1/01-WSGI-mini-web框架/01-mini_frame服务器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06 mini-web框架v3.1/02-闭包/01-闭包.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06 mini-web框架v3.1/02-闭包/02-装饰器.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06 mini-web框架v3.1/02-闭包/03-有参数无返回值.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06 mini-web框架v3.1/02-闭包/04-用同一个装饰器对多个函数进行装饰.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/06 mini-web框架v3.1/04-mini-web框架添加路由和MySQL功能/web_server.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 flask框架/10-图书案例/author_book.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 flask框架/10-图书案例/templates/author_book.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 flask框架/10-图书案例/test_author_book.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 flask框架/11-数据库迁移扩展包Flask-Migrate、 邮件扩展包Flask-Mail/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 flask框架/13-使用蓝图划分模块/cart/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 flask框架/13-使用蓝图划分模块/cart/templates/cart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 flask框架/13-使用蓝图划分模块/cart/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 flask框架/13-使用蓝图划分模块/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 flask框架/13-使用蓝图划分模块/orders.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 flask框架/14-单元测试/login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 flask框架/14-单元测试/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 flask框架/14-单元测试/断言.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15 flask框架/15-flask部署/sqlsalchemy操作mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/15期/00Python基础/1-2 python基础/10-石头剪刀布/__init__.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="720" />
     <option name="width" value="1162" />
     <option name="height" value="1047" />
@@ -49,7 +287,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -57,20 +294,28 @@
               <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="15期" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\microease\Documents\GitHub\Heima-Python-2018\15期" />
       <recent name="C:\Users\microease\Documents\GitHub\Heima-Python-2018\15 flask框架\10-图书案例" />
     </key>
   </component>
@@ -129,16 +374,17 @@
       <workItem from="1548639474830" duration="7651000" />
       <workItem from="1548744446448" duration="751000" />
       <workItem from="1549688867550" duration="8000" />
+      <workItem from="1550646937245" duration="1280000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19945000" />
+    <option name="totallyTimeSpent" value="21225000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="720" y="0" width="1162" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24228676" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14498934" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -166,21 +412,21 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/15 flask框架/14-单元测试/断言.py">
+    <entry file="file://$PROJECT_DIR$/15期/15 flask框架/14-单元测试/断言.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/15 flask框架/14-单元测试/login.py">
+    <entry file="file://$PROJECT_DIR$/15期/15 flask框架/14-单元测试/login.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/15 flask框架/14-单元测试/test.py">
+    <entry file="file://$PROJECT_DIR$/15期/15 flask框架/14-单元测试/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
@@ -190,7 +436,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/15 flask框架/10-图书案例/test_author_book.py">
+    <entry file="file://$PROJECT_DIR$/15期/15 flask框架/10-图书案例/test_author_book.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
           <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
@@ -200,7 +446,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/15 flask框架/15-flask部署/sqlsalchemy操作mysql.py">
+    <entry file="file://$PROJECT_DIR$/15期/15 flask框架/15-flask部署/sqlsalchemy操作mysql.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
