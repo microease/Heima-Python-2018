@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a084d22e-9adf-4abf-aad7-ddad2616d5f4" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/15期/16 微信公众号/wechat.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,7 +53,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -77,6 +75,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -149,16 +148,18 @@
       <workItem from="1549688867550" duration="8000" />
       <workItem from="1550646937245" duration="1878000" />
       <workItem from="1550820943439" duration="6166000" />
+      <workItem from="1550886694068" duration="92000" />
+      <workItem from="1550886795237" duration="2000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27989000" />
+    <option name="totallyTimeSpent" value="28083000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="441" y="25" width="1282" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1792144" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18412438" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
