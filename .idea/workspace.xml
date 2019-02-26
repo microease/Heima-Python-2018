@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a084d22e-9adf-4abf-aad7-ddad2616d5f4" name="默认" comment="" />
+    <list default="true" id="a084d22e-9adf-4abf-aad7-ddad2616d5f4" name="默认" comment="">
+      <change afterPath="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +15,20 @@
     <SUITE FILE_PATH="coverage/Heima_Python_2018$.coverage" NAME="断言 Coverage Results" MODIFIED="1548468790488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15 flask框架/14-单元测试" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/manager.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="e#15#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,6 +50,7 @@
         <option value="$PROJECT_DIR$/15 flask框架/10-图书案例/test_author_book.py" />
         <option value="$PROJECT_DIR$/15 flask框架/15-flask部署/sqlsalchemy操作mysql.py" />
         <option value="$PROJECT_DIR$/15期/16 微信公众号/wechat.py" />
+        <option value="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/manager.py" />
       </list>
     </option>
   </component>
@@ -61,6 +78,19 @@
               <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
               <item name="15期" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="15期" type="462c0819:PsiDirectoryNode" />
+              <item name="17 爱家租房项目" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="15期" type="462c0819:PsiDirectoryNode" />
+              <item name="17 爱家租房项目" type="462c0819:PsiDirectoryNode" />
+              <item name="ihome_python" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,15 +173,16 @@
       <workItem from="1550886795237" duration="2000" />
       <workItem from="1550911974005" duration="3404000" />
       <workItem from="1550975998884" duration="862000" />
-      <workItem from="1551147202082" duration="1400000" />
+      <workItem from="1551147202082" duration="3487000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33749000" />
+    <option name="totallyTimeSpent" value="35836000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="615" y="0" width="1282" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1923077" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -166,7 +197,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32924107" />
       <window_info anchor="bottom" id="调试" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Python Console" order="13" />
@@ -227,6 +258,16 @@
           <caret line="50" column="4" selection-start-line="50" selection-start-column="4" selection-end-line="50" selection-end-column="4" />
           <folding>
             <element signature="e#15#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/manager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#15#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
