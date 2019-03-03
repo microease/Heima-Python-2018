@@ -42,7 +42,7 @@ def get_image_code(image_code_id):
         # 记录日志
         current_app.logger.error(e)
         # return jsonify(errno=RET.DBERR,  errmsg="save image code id failed")
-        return jsonify(errno=RET.DBERR,  errmsg="保存图片验证码失败")
+        return jsonify(errno=RET.DBERR, errmsg="保存图片验证码失败")
 
     # 返回图片
     resp = make_response(image_data)
@@ -122,7 +122,7 @@ def get_sms_code(mobile):
     # 发送短信
     try:
         ccp = CCP()
-        result = ccp.send_template_sms(mobile, [sms_code, int(constants.SMS_CODE_REDIS_EXPIRES/60)], 1)
+        result = ccp.send_template_sms(mobile, [sms_code, int(constants.SMS_CODE_REDIS_EXPIRES / 60)], 1)
     except Exception as e:
         current_app.logger.error(e)
         return jsonify(errno=RET.THIRDERR, errmsg="发送异常")
@@ -133,20 +133,3 @@ def get_sms_code(mobile):
         return jsonify(errno=RET.OK, errmsg="发送成功")
     else:
         return jsonify(errno=RET.THIRDERR, errmsg="发送失败")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
