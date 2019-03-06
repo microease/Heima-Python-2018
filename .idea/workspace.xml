@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a084d22e-9adf-4abf-aad7-ddad2616d5f4" name="默认" comment="">
+      <change afterPath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/03-chrome分析post与json/002_baidufanyi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Heima-Python-2018.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Heima-Python-2018.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库/renren.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库/renren2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库/renren3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库/002_try_params.py" beforeDir="false" afterPath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库/002_try_params.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,29 +15,34 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Heima_Python_2018$002_try_params.coverage" NAME="002_try_params Coverage Results" MODIFIED="1551760054770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$005_shoujifanyi.coverage" NAME="005_shoujifanyi Coverage Results" MODIFIED="1551786792140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库" />
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$008_renren_login2.coverage" NAME="008_renren_login2 Coverage Results" MODIFIED="1551802231832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$001.coverage" NAME="001 Coverage Results" MODIFIED="1551759565764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库" />
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$002_baidufanyi.coverage" NAME="002_baidufanyi Coverage Results" MODIFIED="1551856426509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/18 通用爬虫模块使用/03-chrome分析post与json" />
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$.coverage" NAME="断言 Coverage Results" MODIFIED="1548468790488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15 flask框架/14-单元测试" />
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$003_tieba_spider.coverage" NAME="003_tieba_spider Coverage Results" MODIFIED="1551768360029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库" />
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$006_renren_login.coverage" NAME="006-renren_login Coverage Results" MODIFIED="1551801234850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库" />
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$002_try_params.coverage" NAME="002_try_params Coverage Results" MODIFIED="1551760054770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库" />
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$004_baidufanyi.coverage" NAME="004_baidufanyi Coverage Results" MODIFIED="1551786516617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$006_proxies.coverage" NAME="006_proxies Coverage Results" MODIFIED="1551794233343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$009_renren_login3.coverage" NAME="009_renren_login3 Coverage Results" MODIFIED="1551802242490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库" />
-    <SUITE FILE_PATH="coverage/Heima_Python_2018$.coverage" NAME="断言 Coverage Results" MODIFIED="1548468790488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15 flask框架/14-单元测试" />
-    <SUITE FILE_PATH="coverage/Heima_Python_2018$004_baidufanyi.coverage" NAME="004_baidufanyi Coverage Results" MODIFIED="1551786516617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库" />
-    <SUITE FILE_PATH="coverage/Heima_Python_2018$006_renren_login.coverage" NAME="006-renren_login Coverage Results" MODIFIED="1551801234850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库" />
-    <SUITE FILE_PATH="coverage/Heima_Python_2018$008_renren_login2.coverage" NAME="008_renren_login2 Coverage Results" MODIFIED="1551802231832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库" />
-    <SUITE FILE_PATH="coverage/Heima_Python_2018$003_tieba_spider.coverage" NAME="003_tieba_spider Coverage Results" MODIFIED="1551768360029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库/002_try_params.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,7 +79,6 @@
         <option value="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/constants.py" />
         <option value="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库.py" />
         <option value="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库/001.py" />
-        <option value="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库/002_try_params.py" />
         <option value="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库/003_tieba_spider.py" />
         <option value="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库/004_baidufanyi.py" />
         <option value="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库/005_shoujifanyi.py" />
@@ -81,6 +86,8 @@
         <option value="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库/006-renren_login.py" />
         <option value="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库/008_renren_login2.py" />
         <option value="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库/009_renren_login3.py" />
+        <option value="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库/002_try_params.py" />
+        <option value="$PROJECT_DIR$/15期/18 通用爬虫模块使用/03-chrome分析post与json/002_baidufanyi.py" />
       </list>
     </option>
   </component>
@@ -110,19 +117,6 @@
               <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
               <item name="15期" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="15期" type="462c0819:PsiDirectoryNode" />
-              <item name="18 通用爬虫模块使用" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="15期" type="462c0819:PsiDirectoryNode" />
-              <item name="18 通用爬虫模块使用" type="462c0819:PsiDirectoryNode" />
-              <item name="02-爬虫requests库" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -135,7 +129,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="settings.editor.splitter.proportion" value="0.23283581" />
   </component>
   <component name="RecentsManager">
@@ -161,8 +155,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.009_renren_login3">
-    <configuration name="005_shoujifanyi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.002_baidufanyi">
+    <configuration name="002_baidufanyi" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Heima-Python-2018" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,12 +164,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15期/18 通用爬虫模块使用/03-chrome分析post与json" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库/005_shoujifanyi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15期/18 通用爬虫模块使用/03-chrome分析post与json/002_baidufanyi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,11 +268,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.002_baidufanyi" />
         <item itemvalue="Python.009_renren_login3" />
         <item itemvalue="Python.008_renren_login2" />
         <item itemvalue="Python.006-renren_login" />
         <item itemvalue="Python.006_proxies" />
-        <item itemvalue="Python.005_shoujifanyi" />
       </list>
     </recent_temporary>
   </component>
@@ -315,22 +309,23 @@
       <workItem from="1551757697536" duration="5003000" />
       <workItem from="1551776786039" duration="8778000" />
       <workItem from="1551803792732" duration="469000" />
+      <workItem from="1551843931779" duration="360000" />
+      <workItem from="1551844596663" duration="4589000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68441000" />
+    <option name="totallyTimeSpent" value="73390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="638" y="24" width="1136" height="985" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21389396" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26022306" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295325" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2599772" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25939393" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -339,14 +334,14 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32924107" />
-      <window_info anchor="bottom" id="调试" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="调试" order="11" weight="0.32969698" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32969698" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32992566" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32992566" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19441944" />
@@ -531,13 +526,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python3.7/site-packages/requests/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="119" column="26" selection-start-line="119" selection-start-column="26" selection-end-line="119" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/requests/__init__.py" />
     <entry file="file://$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库/李毅-20.html" />
     <entry file="file://$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库/003_tieba_spider.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -595,8 +584,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/15期/18 通用爬虫模块使用/02-爬虫requests库/002_try_params.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="308">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/18 通用爬虫模块使用/03-chrome分析post与json/002_baidufanyi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1036">
+          <caret line="36" column="35" lean-forward="true" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
