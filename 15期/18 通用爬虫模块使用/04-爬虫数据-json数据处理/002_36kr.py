@@ -6,6 +6,7 @@ url = "https://36kr.com/"
 response = requests.get(url).content.decode()
 # print(response)
 ret = re.findall("<script>var props=(.*?)</script>",response)[0]
+print(ret)
 with open("36kr.json","w",encoding="utf-8") as f:
     f.write(ret)
 ret = json.loads(ret)
