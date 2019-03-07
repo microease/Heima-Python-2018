@@ -1,5 +1,5 @@
 import requests
-
+# 失败，百度翻译做了反爬虫处理，请求体中必须要带sign值和token值，目前不知道如何解决。
 data = {
     "from": "en",
     "to": "zh",
