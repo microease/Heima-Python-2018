@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="db28fad6-f112-4151-b323-0e8bbffc89d1" name="默认" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/04-爬虫数据-json数据处理/002_36kr.py" beforeDir="false" afterPath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/04-爬虫数据-json数据处理/002_36kr.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/04-爬虫数据-json数据处理/36kr.json" beforeDir="false" afterPath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/04-爬虫数据-json数据处理/36kr.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +30,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="638" />
     <option name="y" value="24" />
     <option name="width" value="1136" />
@@ -152,18 +150,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551925630111</updated>
-      <workItem from="1551925645674" duration="4931000" />
+      <workItem from="1551925645674" duration="5530000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4931000" />
+    <option name="totallyTimeSpent" value="5530000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15511727" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15511727" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -174,7 +172,7 @@
       <window_info anchor="bottom" id="调试" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32924107" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32924107" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
