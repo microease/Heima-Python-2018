@@ -107,6 +107,7 @@ def get_sms_code(mobile):
             # 表示手机号已存在
             return jsonify(errno=RET.DATAEXIST, errmsg="手机号已存在")
 
+
     # 如果手机号不存在，则生成短信验证码
     sms_code = "%06d" % random.randint(0, 999999)
 
