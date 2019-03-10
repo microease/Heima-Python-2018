@@ -50,18 +50,24 @@ def register():
     #         return jsonify(errno=RET.DATAEXIST, errmsg="手机号已经存在！")
 
     # 保存用户的注册数据到数据库中
-    user = User(name=mobile,password_hash=password,mobile)
+    user = User(name=mobile, password_hash=password, mobile)
     try:
         db.session.add(user)
         db.session.commit()
     except IndentationError as e:
         current_app.logger.error(e)
-        return jsonify(errno=RET.DATAEXIST,errmsg="手机号已经存在")
+        return jsonify(errno=RET.DATAEXIST, errmsg="手机号已经存在")
     except Exception as e:
         current_app.logger.error(e)
         return jsonify(errno=RET.DBERR, errmsg="数据库异常")
     # 保存登录状态到session中
     # 返回登录后的结果
+    session["name"] = mobile
+    session["mobile"] = mobile
+    session["user_id"] = user.id
+    return jsonify(errno=RET.OK,errmsg="注册成功")
+
+
 
 
 @api.route("/users", methods=["POST"])
