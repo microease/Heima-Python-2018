@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db28fad6-f112-4151-b323-0e8bbffc89d1" name="默认" comment="">
+      <change afterPath="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/api_1_0/passport.py" beforeDir="false" afterPath="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/api_1_0/passport.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/utils/commons.py" beforeDir="false" afterPath="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/utils/commons.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,13 +21,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/api_1_0/passport.py">
+        <entry file="file://$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1266">
-              <caret line="122" column="4" selection-start-line="122" selection-start-column="4" selection-end-line="122" selection-end-column="4" />
-              <folding>
-                <element signature="e#16#33#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="140">
+              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -54,14 +54,19 @@
         <option value="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/models.py" />
         <option value="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/constants.py" />
         <option value="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/api_1_0/passport.py" />
+        <option value="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/utils/commons.py" />
+        <option value="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/demo.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="638" />
-    <option name="y" value="24" />
+    <option name="x" value="771" />
+    <option name="y" value="41" />
     <option name="width" value="1136" />
     <option name="height" value="985" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="添加" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -92,31 +97,6 @@
               <item name="15期" type="462c0819:PsiDirectoryNode" />
               <item name="17 爱家租房项目" type="462c0819:PsiDirectoryNode" />
               <item name="ihome_python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="15期" type="462c0819:PsiDirectoryNode" />
-              <item name="17 爱家租房项目" type="462c0819:PsiDirectoryNode" />
-              <item name="ihome_python" type="462c0819:PsiDirectoryNode" />
-              <item name="ihome" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="15期" type="462c0819:PsiDirectoryNode" />
-              <item name="17 爱家租房项目" type="462c0819:PsiDirectoryNode" />
-              <item name="ihome_python" type="462c0819:PsiDirectoryNode" />
-              <item name="ihome" type="462c0819:PsiDirectoryNode" />
-              <item name="api_1_0" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="15期" type="462c0819:PsiDirectoryNode" />
-              <item name="17 爱家租房项目" type="462c0819:PsiDirectoryNode" />
-              <item name="ihome_python" type="462c0819:PsiDirectoryNode" />
-              <item name="logs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
@@ -239,18 +219,18 @@
       <workItem from="1551925645674" duration="5530000" />
       <workItem from="1552009493448" duration="9380000" />
       <workItem from="1552184640926" duration="9572000" />
-      <workItem from="1552273485985" duration="8336000" />
+      <workItem from="1552273485985" duration="12086000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32818000" />
+    <option name="totallyTimeSpent" value="36568000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="638" y="24" width="1136" height="985" extended-state="0" />
+    <frame x="771" y="41" width="1136" height="985" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2788104" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2788104" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -392,13 +372,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/utils/commons.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <element signature="e#15#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/api_1_0/passport.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1266">
-          <caret line="122" column="4" selection-start-line="122" selection-start-column="4" selection-end-line="122" selection-end-column="4" />
-          <folding>
-            <element signature="e#16#33#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="84">
+          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
         </state>
       </provider>
     </entry>

@@ -120,4 +120,3 @@ def check_login():
 def logout():
     session.clear()
     return jsonify(errno=RET.OK, errmsg="OK")
-    
