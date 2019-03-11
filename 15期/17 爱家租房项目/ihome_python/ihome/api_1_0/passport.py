@@ -104,12 +104,20 @@ def login():
     session["name"] = user.name
     session["mobile"] = user.mobile
     session["user_id"] = user.id
-    return jsonify(errno=RET.OK,errmsg="登录成功")
-@api.route("/session",method=["GET"])
+    return jsonify(errno=RET.OK, errmsg="登录成功")
+
+
+@api.route("/session", method=["GET"])
 def check_login():
-    name=session.get("name")
+    name = session.get("name")
     if name is not None:
-        return jsonify(errno=RET.OK,errmsg="true",data={"name":name})
+        return jsonify(errno=RET.OK, errmsg="true", data={"name": name})
     else:
-        return jsonify(errno=RET.SESSIONERR,errmsg="false")
+        return jsonify(errno=RET.SESSIONERR, errmsg="false")
+
+
+@api.route("/session", method=["DELETE"])
+def logout():
+    session.clear()
+    return jsonify(errno=RET.OK, errmsg="OK")
     
