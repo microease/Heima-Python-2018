@@ -87,4 +87,21 @@ def login():
         current_app.logger.error(e)
     else:
         if access_nums is not None and int(access_nums) > constants.LOGIN_ERROR_MAX_TIMES:
-            
+            return jsonify(errno=RET.REQERR, errmsg="尝试错误次数过多，请稍后重试")
+    try:
+        user = User.query.filter_by(mobile=mobile).first()
+    except Exception as e:
+        current_app.logger.error(e)
+        return jsonify(errno=RET.DBERR, errmsg="获取用户信息失败")
+    if user is None or not user.check_password(password):
+        try:
+            redis_store.incr("access_num_%s" % user_ip)
+            redis_store.expire("access_num_%s" % user_ip, constants.LOGIN_ERROR_FORBID_TIME)
+        except Exception as e:
+            current_app.logger.error(e)
+
+        return jsonify(errno=RET.DATAERR, errmsg="用户名或密码错误")
+    session["name"] = user.name
+    session["mobile"] = user.mobile
+    session["user_id"] = user.id
+    return jsonify(errno=RET.OK,errmsg="登录成功")
