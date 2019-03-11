@@ -3,7 +3,7 @@
 from . import api
 from flask import request, jsonify, current_app, session
 from ihome.utils.response_code import RET
-from ihome import redis_store, db
+from ihome import redis_store, db, constants
 from ihome.models import User
 from sqlalchemy.exc import IntegrityError
 from werkzeug.security import generate_password_hash, check_password_hash
@@ -80,3 +80,11 @@ def login():
         return jsonify(errno=RET.PARAMERR, errmsg="参数不完整")
     if not re.match(r"1[34578]\d{9}", mobile):
         return jsonify(errno=RET.PARAMERR, errmsg="手机号格式错误")
+    user_ip = request.remote_addr  # 获取用户ip
+    try:
+        access_nums = redis_store.get("access_nums_%s" % user_ip)
+    except Exception as e:
+        current_app.logger.error(e)
+    else:
+        if access_nums is not None and int(access_nums) > constants.LOGIN_ERROR_MAX_TIMES:
+            
