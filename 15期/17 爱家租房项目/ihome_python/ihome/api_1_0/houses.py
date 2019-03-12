@@ -7,6 +7,8 @@ from ihome.utils.image_storage import storage
 from ihome.models import User, Area
 from ihome import db, constants
 
+area_li = None
+
 
 @api.route("/areas", method=["GET"])
 def get_area_info():
@@ -18,5 +20,5 @@ def get_area_info():
         return jsonify(errno=RET.DBERR, errmsg="数据库错误")
     area_dict_li = []
     for area in area_li:
-        pass
+        area_dict_li.append(area.to_dict())
     return jsonify(errno=RET.OK, errmsg="OK", data=area_dict_li)
