@@ -21,4 +21,8 @@ def get_area_info():
     area_dict_li = []
     for area in area_li:
         area_dict_li.append(area.to_dict())
+    # 将数据保存到redis中
+    try:
+        redis_store
+
     return jsonify(errno=RET.OK, errmsg="OK", data=area_dict_li)
