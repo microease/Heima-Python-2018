@@ -11,6 +11,7 @@ import json
 area_li = None
 
 
+
 @api.route("/areas", method=["GET"])
 def get_area_info():
     # 获取城区信息
