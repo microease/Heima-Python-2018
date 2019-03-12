@@ -9,3 +9,5 @@ SEND_SMS_CODE_INTERVAL = 60
 LOGIN_ERROR_MAX_TIMES = 3
 # 登录错误限制的时间
 LOGIN_ERROR_FORBID_TIME = 600
+# 七牛的域名
+QINIU_URL_DOMAIN = "http://qiniu.com"
