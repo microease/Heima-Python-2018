@@ -11,7 +11,6 @@ import json
 area_li = None
 
 
-
 @api.route("/areas", method=["GET"])
 def get_area_info():
     # 获取城区信息
@@ -42,3 +41,36 @@ def get_area_info():
         current_app.logger.error(e)
 
     return resp_json, 200, {"Content-Type": "application/json"}
+
+
+@api.route("/houses/info", method=["POST"])
+@login_required
+def save_house_info():
+    house_data = request.get_json()
+    title = house_data.get("title")
+    price = house_data.get("price")
+    area_id = house_data.get("area_id")
+    address = house_data.get("address")
+    room_count = house_data.get("room_count")
+    acreage = house_data.get("acreage")
+    unit = house_data.get("unit")
+    capacity = house_data.get("capacity")
+    beds = house_data.get("beds")
+    deposit = house_data.get("deposit")
+    min_days = house_data.get("min_days")
+    max_days = house_data.get("max_days")
+    if not all(
+            [title, price, area_id, address, room_count, acreage, unit, capacity, beds, deposit, min_days, max_days]):
+        return jsonify(errno=RET.PARAMERR, errmsg="参数不完整")
+    # 判断金额是否正确
+    try:
+        price = int(float(price) * 100)
+        deposit = int(float(deposit) * 100)
+    except Exception as e:
+        current_app.logger.error(e)
+        return jsonify(errno=RET.PARAMERR, errmsg="参数错误")
+    # 判断城区id是否存在
+    try:
+        pass
+    except Exception as e:
+        current_app.logger.error(e)
