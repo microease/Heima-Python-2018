@@ -46,6 +46,7 @@ def get_area_info():
 @api.route("/houses/info", method=["POST"])
 @login_required
 def save_house_info():
+    user_id = g.user_id
     house_data = request.get_json()
     title = house_data.get("title")
     price = house_data.get("price")
@@ -71,6 +72,24 @@ def save_house_info():
         return jsonify(errno=RET.PARAMERR, errmsg="参数错误")
     # 判断城区id是否存在
     try:
-        pass
+        area = Area.query.get(area_id)
     except Exception as e:
         current_app.logger.error(e)
+        return jsonify(errno=RET.DBERR, errmsg="参数错误")
+    if area is None:
+        return jsonify(errno=RET.NODATA, errmsg="城区信息有误")
+    # 保存房屋信息
+    house = House(
+        user_id=user_id,
+        area_id=area_id,
+        title=title,
+        price=price,
+        room_count=room_count,
+        acreage=acreage,
+        unit=unit,
+        capacity=capacity,
+        beds=beds,
+        deposit=deposit,
+        min_days=min_days,
+        max_days=max_days,
+    )

@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee04d99b-9e31-479b-be75-87c41fd83930" name="默认" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/api_1_0/houses.py" beforeDir="false" afterPath="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/api_1_0/houses.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/api_1_0/houses.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="721">
-              <caret line="75" column="34" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
+            <state relative-caret-position="777">
+              <caret line="93" column="26" selection-start-line="93" selection-start-column="26" selection-end-line="93" selection-end-column="26" />
               <folding>
                 <element signature="e#15#32#0" expanded="true" />
                 <element signature="e#393#1304#0" />
@@ -183,18 +182,18 @@
       <workItem from="1552373653970" duration="10756000" />
       <workItem from="1552460633633" duration="590000" />
       <workItem from="1552465632444" duration="638000" />
-      <workItem from="1552552002255" duration="3755000" />
+      <workItem from="1552552002255" duration="5052000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23801000" />
+    <option name="totallyTimeSpent" value="25098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49939394" weight="0.21056978" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49939394" visible="true" weight="0.14818764" />
       <window_info id="Favorites" order="1" weight="0.32992566" />
       <window_info id="Structure" order="2" sideWeight="0.50060606" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -276,8 +275,8 @@
     <entry file="file://$PROJECT_DIR$/15期/1.py" />
     <entry file="file://$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/api_1_0/houses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="721">
-          <caret line="75" column="34" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
+        <state relative-caret-position="777">
+          <caret line="93" column="26" selection-start-line="93" selection-start-column="26" selection-end-line="93" selection-end-column="26" />
           <folding>
             <element signature="e#15#32#0" expanded="true" />
             <element signature="e#393#1304#0" />
