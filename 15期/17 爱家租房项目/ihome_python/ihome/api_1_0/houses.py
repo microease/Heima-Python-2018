@@ -93,3 +93,12 @@ def save_house_info():
         min_days=min_days,
         max_days=max_days,
     )
+    try:
+        db.session.add(house)
+        db.session.commit()
+    except Exception as e:
+        current_app.logger.error(e)
+        return jsonify(errno=RET.DBERR, errmsg="保存数据异常")
+    facilities = house_data.get("facility")
+    if facilities:
+        
