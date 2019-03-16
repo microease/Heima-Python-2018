@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee04d99b-9e31-479b-be75-87c41fd83930" name="默认" comment="">
+      <change afterPath="$PROJECT_DIR$/15期/mbox-short.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/romeo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-2017/基础班/003.py" beforeDir="false" afterPath="$PROJECT_DIR$/00-2017/基础班/003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00-2017/就业班/01练习/数据结构和算法/面试题优化.py" beforeDir="false" afterPath="$PROJECT_DIR$/00-2017/就业班/01练习/数据结构和算法/面试题优化.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15期/05 MySQL数据库v3.1/03-MySQL与Python交互/01-笔记.sql" beforeDir="false" afterPath="$PROJECT_DIR$/15期/05 MySQL数据库v3.1/03-MySQL与Python交互/01-笔记.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/api_1_0/houses.py" beforeDir="false" afterPath="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/api_1_0/houses.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/15期/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/15期/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,27 +18,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Heima_Python_2018$test.coverage" NAME="test Coverage Results" MODIFIED="1552700517330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期" />
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$test.coverage" NAME="test Coverage Results" MODIFIED="1552730767879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$1.coverage" NAME="1 Coverage Results" MODIFIED="1552461133196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Heima-Python-2018" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/api_1_0/houses.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="605">
-              <caret line="103" selection-start-line="103" selection-end-line="103" />
-              <folding>
-                <element signature="e#15#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,11 +46,13 @@
         <option value="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/api_1_0/profile.py" />
         <option value="$PROJECT_DIR$/15期/1.py" />
         <option value="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/api_1_0/houses.py" />
+        <option value="$PROJECT_DIR$/15期/a" />
+        <option value="$PROJECT_DIR$/15期/mbox-short.txt" />
         <option value="$PROJECT_DIR$/15期/test.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="559" />
     <option name="y" value="98" />
     <option name="width" value="1271" />
@@ -209,23 +205,22 @@
       <workItem from="1552465632444" duration="638000" />
       <workItem from="1552552002255" duration="5335000" />
       <workItem from="1552617165973" duration="18369000" />
-      <workItem from="1552700468582" duration="2103000" />
+      <workItem from="1552700468582" duration="17222000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45853000" />
+    <option name="totallyTimeSpent" value="60972000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="559" y="98" width="1271" height="972" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49939394" weight="0.15028901" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49939394" visible="true" weight="0.09701493" />
       <window_info id="Favorites" order="1" weight="0.32992566" />
       <window_info id="Structure" order="2" sideWeight="0.50060606" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.48891625" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32924107" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45089287" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -300,17 +295,31 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15期/1.py" />
+    <entry file="file://$PROJECT_DIR$/15期/romeo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="39" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/mbox-short.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="1909" lean-forward="true" selection-start-line="1909" selection-end-line="1909" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/15期/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        <state relative-caret-position="149">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/api_1_0/houses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="605">
-          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        <state relative-caret-position="553">
+          <caret line="102" column="18" selection-start-line="102" selection-start-column="18" selection-end-line="102" selection-end-column="18" />
           <folding>
             <element signature="e#15#32#0" expanded="true" />
           </folding>

@@ -101,3 +101,4 @@ def save_house_info():
         return jsonify(errno=RET.DBERR, errmsg="保存数据异常")
     facilities = house_data.get("facility")
     if facilities:
+        pass
