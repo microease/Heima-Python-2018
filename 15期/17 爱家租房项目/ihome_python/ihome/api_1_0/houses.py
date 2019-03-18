@@ -147,3 +147,14 @@ def save_house_image():
         return jsonify(errno=RET.THIRDERR, errmsg="保存图片失败")
     house_image = HouseImage(house_id=house_id, url=file_name)
     db.session.add(house_image)
+    if not house.index_image_url:
+        house.index_image_url = file_name
+        db.session.add(house)
+    try:
+        db.session.commit()
+    except Exception as e:
+        current_app.logger.error(e)
+        db.session.rollback()
+        return jsonify(errno=RET.DBERR, errmsg="保存图片数据异常")
+    image_url = constants.QINIU_URL_DOMAIN + file_name
+    return jsonify(errno=RET.OK, errmsg="OK", data={"image_url": image_url})
