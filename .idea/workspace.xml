@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee04d99b-9e31-479b-be75-87c41fd83930" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/15期/map_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/api_1_0/houses.py" beforeDir="false" afterPath="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/api_1_0/houses.py" afterDir="false" />
-    </list>
+    <list default="true" id="ee04d99b-9e31-479b-be75-87c41fd83930" name="默认" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/15期/map_demo.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -72,25 +68,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="15期" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -209,14 +187,15 @@
       <workItem from="1552700468582" duration="17222000" />
       <workItem from="1552743582313" duration="3952000" />
       <workItem from="1552793511457" duration="7890000" />
+      <workItem from="1552876036344" duration="587000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72814000" />
+    <option name="totallyTimeSpent" value="73401000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="593" y="29" width="1073" height="985" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49939394" weight="0.1816387" />
@@ -347,7 +326,7 @@
     <entry file="file://$PROJECT_DIR$/15期/map_demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
         </state>
       </provider>
     </entry>
