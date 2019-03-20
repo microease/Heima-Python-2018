@@ -211,5 +211,17 @@ def get_house_list():
     for house in houses:
         houses.append(house.to_basic_dict())
     total_page = page_obj.pages
-    return jsonify(errno=RET.OK, errmsg="OK", data={"total_page": total_page, "houses": houses, "current_page": page})
-    redis_store =
+    resp_dict = dict(errno=RET.OK, errmsg="OK", data={"total_page": total_page, "houses": houses, "current_page": page})
+    resp_json = json.dumps(resp_dict)
+    if page<=total_page:
+        redis_key = "house_%s_%s_%s_%s" % (start_date, end_date, area_id, sort_key)
+        try:
+            # redis_store.hset(redis_key,page,resp_json)
+            pipeline = redis_store.pipeline()
+            pipeline.multi()
+            pipeline.hset(redis_key, page, resp_json)
+            pipeline.expire(redis_key,constants.xxxxx)
+            pipeline.execute()
+        except Exception as e:
+            current_app.logger.error(e)
+    return resp_json,200,{"Content-Type":"application/json"}
