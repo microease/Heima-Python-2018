@@ -167,7 +167,6 @@ def get_house_list():
     area_id = request.args.get("aid")
     sort_key = request.args.get("sk")
     page = request.args.get("p")
-    filter_params = []
     try:
         if start_date:
             start_date = datetime.strptime(start_date, "%Y-%m-%d")
@@ -184,5 +183,5 @@ def get_house_list():
         current_app.logger.error(e)
         page = 1
     li = []
-
+    filter_params = []
     House.query.filter(*)
