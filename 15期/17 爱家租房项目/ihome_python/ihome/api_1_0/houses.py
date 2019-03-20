@@ -198,10 +198,17 @@ def get_house_list():
         filter_params.append(House.area_id == area_id)
 
     if sort_key == "booking":
-        House.query.filter(*filter_params).order_by(House.order_count.desc())
+        house_query = House.query.filter(*filter_params).order_by(House.order_count.desc())
     elif sort_key == "price-inc":
-        House.query.filter(*filter_params).order_by(House.price.asc())
+        house_query = House.query.filter(*filter_params).order_by(House.price.asc())
     elif sort_key == "price-des":
-        House.query.filter(*filter_params).order_by(House.price.desc())
+        house_query = House.query.filter(*filter_params).order_by(House.price.desc())
     else:
-        House.query.filter(*filter_params).order_by(House.create_time.desc())
+        house_query = House.query.filter(*filter_params).order_by(House.create_time.desc())
+    page_obj = house_query.pageinate(page=page, per_page=constants.HOUSE, err_out=False)
+    house_li = page_obj.items
+    houses = []
+    for house in houses:
+        houses.append(house.to_basic_dict())
+    total_page = page_obj.pages
+    return jsonify(errno=RET.OK, errmsg="OK", data={"total_page": total_page, "houses": houses, "current_page": page })
