@@ -211,4 +211,5 @@ def get_house_list():
     for house in houses:
         houses.append(house.to_basic_dict())
     total_page = page_obj.pages
-    return jsonify(errno=RET.OK, errmsg="OK", data={"total_page": total_page, "houses": houses, "current_page": page })
+    return jsonify(errno=RET.OK, errmsg="OK", data={"total_page": total_page, "houses": houses, "current_page": page})
+    redis_store =
