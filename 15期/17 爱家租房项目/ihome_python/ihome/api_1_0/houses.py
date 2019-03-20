@@ -6,7 +6,7 @@ from ihome.utils.response_code import RET
 from ihome.utils.image_storage import storage
 from ihome.models import User, Area
 from ihome import db, constants, redis_store
-
+from datetime import datetime
 from ihome.utils.image_storage import storage
 import json
 
@@ -158,3 +158,31 @@ def save_house_image():
         return jsonify(errno=RET.DBERR, errmsg="保存图片数据异常")
     image_url = constants.QINIU_URL_DOMAIN + file_name
     return jsonify(errno=RET.OK, errmsg="OK", data={"image_url": image_url})
+
+
+@api.route("/houses")
+def get_house_list():
+    start_date = request.args.get("sd")
+    end_date = request.args.get("ed")
+    area_id = request.args.get("aid")
+    sort_key = request.args.get("sk")
+    page = request.args.get("p")
+    filter_params = []
+    try:
+        if start_date:
+            start_date = datetime.strptime(start_date, "%Y-%m-%d")
+        if end_date:
+            end_date = datetime.strptime(end_date, "%y-%m-%d")
+        if start_date and end_date:
+            assert start_date <= end_date
+    except Exception as e:
+        current_app.logger.error(e)
+        return jsonify(errno=RET.PARAMERR, errmsg="日期参数有误")
+    try:
+        page = int(page)
+    except Exception as e:
+        current_app.logger.error(e)
+        page = 1
+    li = []
+
+    House.query.filter(*)
