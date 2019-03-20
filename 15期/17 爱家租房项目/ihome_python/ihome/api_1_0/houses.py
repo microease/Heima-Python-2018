@@ -184,4 +184,8 @@ def get_house_list():
         page = 1
     li = []
     filter_params = []
+    if start_date and end_date:
+        conflict_orders = Order.query
+        conflict_orders_ids =
     House.query.filter(*)
+    House.id.notin_(conflict_orders_ids)
