@@ -185,7 +185,23 @@ def get_house_list():
     li = []
     filter_params = []
     if start_date and end_date:
-        conflict_orders = Order.query
-        conflict_orders_ids =
-    House.query.filter(*)
-    House.id.notin_(conflict_orders_ids)
+        conflict_orders = Order.query.filter(Order.begin_date <= end_date, Order.end_date >= start_date).all()
+    elif start_date:
+        conflict_orders = Order.query.filter(Order.end_date >= start_date).all()
+    elif end_date:
+        conflict_orders = Order.query.filter(Order.begin_date <= end_date).all()
+    if conflict_orders:
+        conflict_orders_ids = [order.house_id for order in conflict_orders]
+        if conflict_orders_ids:
+            filter_params.append(House.id.notin_(conflict_orders_ids))
+    if area_id:
+        filter_params.append(House.area_id == area_id)
+
+    if sort_key == "booking":
+        House.query.filter(*filter_params).order_by(House.order_count.desc())
+    elif sort_key == "price-inc":
+        House.query.filter(*filter_params).order_by(House.price.asc())
+    elif sort_key == "price-des":
+        House.query.filter(*filter_params).order_by(House.price.desc())
+    else:
+        House.query.filter(*filter_params).order_by(House.create_time.desc())
