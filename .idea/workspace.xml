@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee04d99b-9e31-479b-be75-87c41fd83930" name="默认" comment="" />
+    <list default="true" id="ee04d99b-9e31-479b-be75-87c41fd83930" name="默认" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +19,7 @@
     <favorites_list name="Heima-Python-2018" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="899" />
     <option name="y" value="38" />
     <option name="width" value="1073" />
@@ -63,7 +65,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -80,36 +81,13 @@
               <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
               <item name="15期" type="462c0819:PsiDirectoryNode" />
-              <item name="17 爱家租房项目" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="15期" type="462c0819:PsiDirectoryNode" />
-              <item name="17 爱家租房项目" type="462c0819:PsiDirectoryNode" />
-              <item name="ihome_python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="15期" type="462c0819:PsiDirectoryNode" />
-              <item name="17 爱家租房项目" type="462c0819:PsiDirectoryNode" />
-              <item name="ihome_python" type="462c0819:PsiDirectoryNode" />
-              <item name="ihome" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="15期" type="462c0819:PsiDirectoryNode" />
-              <item name="17 爱家租房项目" type="462c0819:PsiDirectoryNode" />
-              <item name="ihome_python" type="462c0819:PsiDirectoryNode" />
-              <item name="ihome" type="462c0819:PsiDirectoryNode" />
-              <item name="api_1_0" type="462c0819:PsiDirectoryNode" />
+              <item name="18 通用爬虫模块使用" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -235,16 +213,20 @@
       <workItem from="1552984267910" duration="1245000" />
       <workItem from="1553043392957" duration="18440000" />
       <workItem from="1553481831829" duration="2530000" />
+      <workItem from="1554014594607" duration="7000" />
+      <workItem from="1554099590634" duration="2014000" />
+      <workItem from="1554274448348" duration="74000" />
+      <workItem from="1554277118973" duration="599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102229000" />
+    <option name="totallyTimeSpent" value="104923000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="899" y="38" width="1073" height="985" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49939394" weight="0.25172755" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49939394" visible="true" weight="0.13859275" />
       <window_info id="Favorites" order="1" weight="0.32992566" />
       <window_info id="Structure" order="2" sideWeight="0.50060606" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -394,8 +376,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/api_1_0/houses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="226" column="60" lean-forward="true" selection-start-line="226" selection-start-column="60" selection-end-line="226" selection-end-column="60" />
+        <state relative-caret-position="6104">
+          <caret line="218" column="24" lean-forward="true" selection-start-line="218" selection-start-column="24" selection-end-line="218" selection-end-column="24" />
           <folding>
             <element signature="e#15#32#0" expanded="true" />
           </folding>
