@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee04d99b-9e31-479b-be75-87c41fd83930" name="默认" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Heima-Python-2018.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Heima-Python-2018.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15期/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/15期/test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,17 +20,7 @@
     <favorites_list name="Heima-Python-2018" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/15期/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,20 +42,20 @@
         <option value="$PROJECT_DIR$/15期/1.py" />
         <option value="$PROJECT_DIR$/15期/a" />
         <option value="$PROJECT_DIR$/15期/mbox-short.txt" />
-        <option value="$PROJECT_DIR$/15期/test.py" />
         <option value="$PROJECT_DIR$/15期/map_demo.py" />
         <option value="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/tasks/task_sms.py" />
         <option value="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/tasks/main.py" />
         <option value="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/tasks/sms/__init__.py" />
         <option value="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/tasks/sms/tasks.py" />
         <option value="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/api_1_0/houses.py" />
+        <option value="$PROJECT_DIR$/15期/test.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="727" />
+    <option name="x" value="909" />
     <option name="y" value="23" />
-    <option name="width" value="1193" />
+    <option name="width" value="1011" />
     <option name="height" value="990" />
   </component>
   <component name="ProjectView">
@@ -87,12 +76,6 @@
               <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
               <item name="15期" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="15期" type="462c0819:PsiDirectoryNode" />
-              <item name="18 通用爬虫模块使用" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -105,7 +88,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -231,17 +214,18 @@
       <workItem from="1554440803266" duration="654000" />
       <workItem from="1554441808934" duration="34000" />
       <workItem from="1554441906855" duration="172000" />
-      <workItem from="1554442242023" duration="1064000" />
+      <workItem from="1554442242023" duration="2666000" />
+      <workItem from="1554492832297" duration="596000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106847000" />
+    <option name="totallyTimeSpent" value="109045000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="727" y="23" width="1193" height="990" extended-state="0" />
+    <frame x="909" y="23" width="1011" height="990" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49939394" visible="true" weight="0.24239792" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49939394" weight="0.24148607" />
       <window_info id="Favorites" order="1" weight="0.32992566" />
       <window_info id="Structure" order="2" sideWeight="0.50060606" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -388,8 +372,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/15期/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="28" column="33" lean-forward="true" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        <state relative-caret-position="546">
+          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
         </state>
       </provider>
     </entry>
