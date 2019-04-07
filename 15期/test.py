@@ -34,5 +34,5 @@ for line in handle:
 res2 = dict()
 for i in set(res):
     res2[i] = res.count(i)
-res2 = sorted(res2.items(),key=lambda x:x[1],reverse=True)
-print(res2[0][0]+" "+str(res2[0][1]))
+res2 = sorted(res2.items(), key=lambda x: x[1], reverse=True)
+print(res2[0][0] + " " + str(res2[0][1]))
