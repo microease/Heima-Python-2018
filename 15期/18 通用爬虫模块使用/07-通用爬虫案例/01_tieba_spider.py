@@ -14,7 +14,7 @@ class TiebaSpider:
         response = requests.get(url, headers=self.headers)
         return response.content.decode()
 
-    def get_image_list(self, detail_url,total_img_list):
+    def get_image_list(self, detail_url, total_img_list):
         detail_html_str = self.parse_url(detail_url)
         detail_html = etree.HTML(detail_html_str)
 

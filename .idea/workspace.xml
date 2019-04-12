@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee04d99b-9e31-479b-be75-87c41fd83930" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/06-爬虫数据-xpath处理数据/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/07-通用爬虫案例/01_tieba_spider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/07-通用爬虫案例/02_qiushibaike_spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Heima-Python-2018.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Heima-Python-2018.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/07-通用爬虫案例/01_tieba_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/07-通用爬虫案例/01_tieba_spider.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,10 +26,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/15期/18 通用爬虫模块使用/07-通用爬虫案例/02_qiushibaike_spider.py">
+        <entry file="file://$PROJECT_DIR$/15期/18 通用爬虫模块使用/07-通用爬虫案例/01_tieba_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="124" />
+            <state relative-caret-position="250">
+              <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
               <folding>
                 <element signature="e#15#30#0" expanded="true" />
               </folding>
@@ -69,16 +69,16 @@
         <option value="$PROJECT_DIR$/15期/test2.py" />
         <option value="$PROJECT_DIR$/15期/18 通用爬虫模块使用/06-爬虫数据-xpath处理数据/test.py" />
         <option value="$PROJECT_DIR$/15期/18 通用爬虫模块使用/07-通用爬虫案例/01.py" />
-        <option value="$PROJECT_DIR$/15期/18 通用爬虫模块使用/07-通用爬虫案例/01_tieba_spider.py" />
         <option value="$PROJECT_DIR$/15期/18 通用爬虫模块使用/07-通用爬虫案例/02_qiushibaike_spider.py" />
+        <option value="$PROJECT_DIR$/15期/18 通用爬虫模块使用/07-通用爬虫案例/01_tieba_spider.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="556" />
-    <option name="y" value="57" />
-    <option name="width" value="1073" />
-    <option name="height" value="985" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
+    <option name="y" value="23" />
+    <option name="width" value="960" />
+    <option name="height" value="990" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="添加" />
@@ -88,7 +88,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,9 +117,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
@@ -290,17 +291,20 @@
       <workItem from="1554691269205" duration="28000" />
       <workItem from="1554801127620" duration="1718000" />
       <workItem from="1554867862807" duration="12740000" />
+      <workItem from="1555073248691" duration="1097000" />
+      <workItem from="1555074912492" duration="13000" />
+      <workItem from="1555074947888" duration="1087000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15102000" />
+    <option name="totallyTimeSpent" value="17299000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="960" y="23" width="960" height="990" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49939394" visible="true" weight="0.14498934" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49939394" weight="0.14962727" />
       <window_info id="Favorites" order="1" weight="0.32992566" />
       <window_info id="Structure" order="2" sideWeight="0.50060606" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -313,7 +317,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32993197" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32839224" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.3295325" />
       <window_info anchor="bottom" id="调试" order="13" />
@@ -352,20 +356,20 @@
     <entry file="file://$PROJECT_DIR$/15期/map_demo.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/15期/18 通用爬虫模块使用/07-通用爬虫案例/01_tieba_spider.py">
+    <entry file="file://$PROJECT_DIR$/15期/18 通用爬虫模块使用/07-通用爬虫案例/02_qiushibaike_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="673">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="380">
+          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="124" />
           <folding>
             <element signature="e#15#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/15期/18 通用爬虫模块使用/07-通用爬虫案例/02_qiushibaike_spider.py">
+    <entry file="file://$PROJECT_DIR$/15期/18 通用爬虫模块使用/07-通用爬虫案例/01_tieba_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="124" />
+        <state relative-caret-position="250">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
           <folding>
             <element signature="e#15#30#0" expanded="true" />
           </folding>
