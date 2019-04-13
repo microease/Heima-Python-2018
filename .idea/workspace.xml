@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee04d99b-9e31-479b-be75-87c41fd83930" name="默认" comment="">
-      <change afterPath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/06-爬虫数据-xpath处理数据/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/07-通用爬虫案例/01_tieba_spider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/07-通用爬虫案例/02_qiushibaike_spider.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/07-通用爬虫案例/02_qiushibaike_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/07-通用爬虫案例/02_qiushibaike_spider.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$02_qiushibaike_spider.coverage" NAME="02_qiushibaike_spider Coverage Results" MODIFIED="1555040012300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/18 通用爬虫模块使用/07-通用爬虫案例" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$test.coverage" NAME="test Coverage Results" MODIFIED="1552747007776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$map_demo.coverage" NAME="map_demo Coverage Results" MODIFIED="1552813811826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1554625308276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期" />
@@ -28,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/15期/18 通用爬虫模块使用/07-通用爬虫案例/02_qiushibaike_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="124" />
+            <state relative-caret-position="641">
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
               <folding>
                 <element signature="e#15#30#0" expanded="true" />
               </folding>
@@ -88,7 +87,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -118,6 +116,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -136,8 +135,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test (1)">
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.02_qiushibaike_spider">
+    <configuration name="02_qiushibaike_spider" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Heima-Python-2018" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,12 +144,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15期" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15期/18 通用爬虫模块使用/07-通用爬虫案例" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15期/1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15期/18 通用爬虫模块使用/07-通用爬虫案例/02_qiushibaike_spider.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02_qiushibaike_spider" />
         <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.test2" />
         <item itemvalue="Python.map_demo" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.1" />
       </list>
     </recent_temporary>
   </component>
@@ -290,17 +289,18 @@
       <workItem from="1554691269205" duration="28000" />
       <workItem from="1554801127620" duration="1718000" />
       <workItem from="1554867862807" duration="12740000" />
+      <workItem from="1555035911944" duration="5286000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15102000" />
+    <option name="totallyTimeSpent" value="20388000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49939394" visible="true" weight="0.14498934" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49939394" visible="true" weight="0.14658849" />
       <window_info id="Favorites" order="1" weight="0.32992566" />
       <window_info id="Structure" order="2" sideWeight="0.50060606" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -364,8 +364,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/15期/18 通用爬虫模块使用/07-通用爬虫案例/02_qiushibaike_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="26" column="37" lean-forward="true" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="124" />
+        <state relative-caret-position="641">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
           <folding>
             <element signature="e#15#30#0" expanded="true" />
           </folding>

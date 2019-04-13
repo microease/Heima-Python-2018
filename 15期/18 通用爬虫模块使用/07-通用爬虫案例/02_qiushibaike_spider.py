@@ -15,7 +15,7 @@ class QiushibaikeSpider:
 
     def parse_url(self, url):
         response = requests.get(url, headers=self.headers)
-        return response.content.decode()
+        return response.content.decode('unicode_escape')
 
     def get_content_list(self, html_str):
         html = etree.HTML(html_str)
@@ -24,7 +24,12 @@ class QiushibaikeSpider:
             item = {}
             item["content"] = li.xpath(".//div[@class='recmd-right']/a/text()")
             item["href"] = li.xpath(".//div[@class='recmd-right']/a/@href")
-            item["like"] = li.xpath(".//div[@class='recmd-right']/div[@class='recmd-detail']/div[@class='recmd-num']/span[0]")
+            item["likes"] = li.xpath(
+                ".//div[@class='recmd-right']/div[@class='recmd-detail']/div[@class='recmd-num']/span[0]")
+            # item["like"] = item["likes"][0]
+
+    def save_content_list(self, content):
+        pass
 
     def run(self):
         # 1 url_list
@@ -32,6 +37,14 @@ class QiushibaikeSpider:
         # 2 遍历发送请求 获取响应
         for url in url_list:
             html_str = self.parse_url(url)
+
         # 3 提取数据
+        content_list = self.get_content_list(html_str)
+        print(content_list)
         # 4 保存
-        pass
+        self.save_content_list(content_list)
+
+
+if __name__ == '__main__':
+    qiubai = QiushibaikeSpider()
+    qiubai.run()
