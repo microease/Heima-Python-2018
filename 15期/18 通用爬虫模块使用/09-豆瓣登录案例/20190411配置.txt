@@ -1,0 +1,11 @@
+ 地址 (Address) = 34.92.239.142
+
+ 端口 (Port) = 47712
+
+ 用户ID (User ID / UUID) = 0adadd7b-1fc6-4c71-a15e-3339cb4bb61c
+
+ 额外ID (Alter Id) = 233
+
+ 传输协议 (Network) = tcp
+
+ 伪装类型 (header type) = none
