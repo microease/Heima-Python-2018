@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af911a09-ae72-439d-abe9-3d44c6c396aa" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/15期/17 爱家租房项目/ihome_python/ihome/api_1_0/orders.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/08-爬取动态html数据/01_try_selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/08-爬取动态html数据/01_try_selenium.py" afterDir="false" />
-    </list>
+    <list default="true" id="af911a09-ae72-439d-abe9-3d44c6c396aa" name="默认更改列表" comment="" />
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
