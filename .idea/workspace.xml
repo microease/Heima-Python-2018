@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af911a09-ae72-439d-abe9-3d44c6c396aa" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Heima-Python-2018.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Heima-Python-2018.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/08-爬取动态html数据/01_try_selenium.py" beforeDir="false" afterPath="$PROJECT_DIR$/15期/18 通用爬虫模块使用/08-爬取动态html数据/01_try_selenium.py" afterDir="false" />
-    </list>
+    <list default="true" id="af911a09-ae72-439d-abe9-3d44c6c396aa" name="默认更改列表" comment="" />
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +14,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/15期/18 通用爬虫模块使用/10-斗鱼爬虫/01-douyu_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+            <state relative-caret-position="583">
+              <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -72,6 +67,19 @@
               <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
               <item name="15期" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="15期" type="462c0819:PsiDirectoryNode" />
+              <item name="18 通用爬虫模块使用" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="15期" type="462c0819:PsiDirectoryNode" />
+              <item name="18 通用爬虫模块使用" type="462c0819:PsiDirectoryNode" />
+              <item name="10-斗鱼爬虫" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -202,17 +210,18 @@
       <workItem from="1556186198765" duration="25000" />
       <workItem from="1556186253901" duration="364000" />
       <workItem from="1556243637731" duration="9367000" />
+      <workItem from="1556492449027" duration="729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29327000" />
+    <option name="totallyTimeSpent" value="30056000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="991" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12100213" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12193823" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -284,8 +293,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/15期/18 通用爬虫模块使用/10-斗鱼爬虫/01-douyu_spider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+        <state relative-caret-position="583">
+          <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
         </state>
       </provider>
     </entry>
