@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af911a09-ae72-439d-abe9-3d44c6c396aa" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/15期/25 Python网络爬虫/02-网络请求/test6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15期/25 Python网络爬虫/02-网络请求/test6.py" beforeDir="false" afterPath="$PROJECT_DIR$/15期/25 Python网络爬虫/02-网络请求/test6.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/15期/25 Python网络爬虫/02-网络请求/test6.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -106,7 +106,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -272,17 +272,18 @@
       <workItem from="1556506727831" duration="7901000" />
       <workItem from="1556596360494" duration="4139000" />
       <workItem from="1556799272476" duration="129000" />
+      <workItem from="1556800662424" duration="88000" />
+      <workItem from="1556800773094" duration="206000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42345000" />
+    <option name="totallyTimeSpent" value="42639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="991" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.124068156" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12619808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -428,7 +429,7 @@
     <entry file="file://$PROJECT_DIR$/15期/25 Python网络爬虫/02-网络请求/test6.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>
