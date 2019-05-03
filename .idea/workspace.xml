@@ -44,9 +44,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="添加" />
@@ -260,15 +261,15 @@
       <workItem from="1556801100050" duration="3176000" />
       <workItem from="1556838328999" duration="1745000" />
       <workItem from="1556852734967" duration="1161000" />
-      <workItem from="1556855150323" duration="1611000" />
+      <workItem from="1556855150323" duration="2136000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50393000" />
+    <option name="totallyTimeSpent" value="50918000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13166311" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -283,7 +284,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.25586355" side_tool="true" visible="true" weight="0.19977678" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.25586355" side_tool="true" weight="0.66741824" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32924107" />
       <window_info anchor="bottom" id="调试" order="13" weight="0.3295583" />
