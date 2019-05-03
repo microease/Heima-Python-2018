@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af911a09-ae72-439d-abe9-3d44c6c396aa" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/15期/25 Python网络爬虫/02-网络请求/test7.py" beforeDir="false" afterPath="$PROJECT_DIR$/15期/25 Python网络爬虫/02-网络请求/test7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/spiders/itcast.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/spiders/microease.py" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/01-scrapy框架介绍/test1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/spiders/itcast.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -53,6 +65,9 @@
         <option value="$PROJECT_DIR$/15期/25 Python网络爬虫/02-网络请求/test7.py" />
         <option value="$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/01-scrapy框架介绍/test1.py" />
         <option value="$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/scrapy.cfg" />
+        <option value="$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/spiders/microease.py" />
+        <option value="$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/settings.py" />
+        <option value="$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/spiders/itcast.py" />
       </list>
     </option>
   </component>
@@ -69,6 +84,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -115,7 +131,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.01_try_selenium">
+  <component name="RunManager" selected="Python.microease">
     <configuration name="01_try_selenium" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Heima-Python-2018" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,7 +185,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="microease" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Heima-Python-2018" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,12 +193,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15期/25 Python网络爬虫/02-网络请求" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/spiders" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15期/25 Python网络爬虫/02-网络请求/test4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/spiders/itcast.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.microease" />
         <item itemvalue="Python.01_try_selenium" />
         <item itemvalue="Python.test7" />
         <item itemvalue="Python.test6" />
         <item itemvalue="Python.test5" />
-        <item itemvalue="Python.test4" />
       </list>
     </recent_temporary>
   </component>
@@ -301,22 +316,23 @@
       <workItem from="1556838328999" duration="1745000" />
       <workItem from="1556852734967" duration="1161000" />
       <workItem from="1556855150323" duration="6356000" />
+      <workItem from="1556926430591" duration="1309000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55138000" />
+    <option name="totallyTimeSpent" value="56447000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="994" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13166311" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13312034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.74413645" weight="0.2857143" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.74413645" weight="0.28555304" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -325,7 +341,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.25586355" side_tool="true" weight="0.66741824" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3295711" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32924107" />
       <window_info anchor="bottom" id="调试" order="13" weight="0.3295583" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -339,15 +355,16 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Heima_Python_2018$01_try_selenium.coverage" NAME="01_try_selenium Coverage Results" MODIFIED="1556853303102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/18 通用爬虫模块使用/08-爬取动态html数据" />
-    <SUITE FILE_PATH="coverage/Heima_Python_2018$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1556614343289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/25 Python网络爬虫/02-网络请求" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$test7.coverage" NAME="test7 Coverage Results" MODIFIED="1556839472796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/25 Python网络爬虫/02-网络请求" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1556531494201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/25 Python网络爬虫/02-网络请求" />
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$01_try_selenium.coverage" NAME="01_try_selenium Coverage Results" MODIFIED="1556853303102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/18 通用爬虫模块使用/08-爬取动态html数据" />
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1556614343289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/25 Python网络爬虫/02-网络请求" />
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$microease.coverage" NAME="microease Coverage Results" MODIFIED="1556926860790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/spiders" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$01_douyu_spider.coverage" NAME="01-douyu_spider Coverage Results" MODIFIED="1556262592326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/18 通用爬虫模块使用/10-斗鱼爬虫" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$test.coverage" NAME="test Coverage Results" MODIFIED="1556527604372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/25 Python网络爬虫/02-网络请求" />
-    <SUITE FILE_PATH="coverage/Heima_Python_2018$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1556529957497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/25 Python网络爬虫/02-网络请求" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$test6.coverage" NAME="test6 Coverage Results" MODIFIED="1556804153925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/25 Python网络爬虫/02-网络请求" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1556612056566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/25 Python网络爬虫/02-网络请求" />
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1556529957497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/25 Python网络爬虫/02-网络请求" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$APPLICATION_PLUGINS_DIR$/ycy-intellij-plugin.jar!/images/超越妹妹.jpg" />
@@ -506,17 +523,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/spiders/microease.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/01-scrapy框架介绍/test1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="68" lean-forward="true" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/spiders/itcast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
         </state>
       </provider>
     </entry>
