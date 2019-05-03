@@ -12,7 +12,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/01-scrapy框架介绍/test1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,6 +51,8 @@
         <option value="$PROJECT_DIR$/15期/25 Python网络爬虫/02-网络请求/test5.py" />
         <option value="$PROJECT_DIR$/15期/25 Python网络爬虫/02-网络请求/test6.py" />
         <option value="$PROJECT_DIR$/15期/25 Python网络爬虫/02-网络请求/test7.py" />
+        <option value="$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/01-scrapy框架介绍/test1.py" />
+        <option value="$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/scrapy.cfg" />
       </list>
     </option>
   </component>
@@ -75,6 +87,30 @@
               <item name="15期" type="462c0819:PsiDirectoryNode" />
               <item name="20 爬虫scrapy框架及案例" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="15期" type="462c0819:PsiDirectoryNode" />
+              <item name="20 爬虫scrapy框架及案例" type="462c0819:PsiDirectoryNode" />
+              <item name="myspider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="15期" type="462c0819:PsiDirectoryNode" />
+              <item name="20 爬虫scrapy框架及案例" type="462c0819:PsiDirectoryNode" />
+              <item name="myspider" type="462c0819:PsiDirectoryNode" />
+              <item name="myspider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="15期" type="462c0819:PsiDirectoryNode" />
+              <item name="20 爬虫scrapy框架及案例" type="462c0819:PsiDirectoryNode" />
+              <item name="myspider" type="462c0819:PsiDirectoryNode" />
+              <item name="myspider" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -92,6 +128,9 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\microease\Documents\GitHub\Heima-Python-2018\15期\20 爬虫scrapy框架及案例\myspider\myspider\spiders" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\microease\Documents\GitHub\Heima-Python-2018\15期\17 爱家租房项目\ihome_python\ihome\api_1_0" />
     </key>
@@ -261,15 +300,16 @@
       <workItem from="1556801100050" duration="3176000" />
       <workItem from="1556838328999" duration="1745000" />
       <workItem from="1556852734967" duration="1161000" />
-      <workItem from="1556855150323" duration="3225000" />
+      <workItem from="1556855150323" duration="6356000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52007000" />
+    <option name="totallyTimeSpent" value="55138000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13166311" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -441,6 +481,42 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
           <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1267" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/scrapy.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/spiders/microease.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/01-scrapy框架介绍/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
