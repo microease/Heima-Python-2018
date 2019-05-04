@@ -25,11 +25,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/spiders/itcast.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
               <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -66,8 +75,8 @@
         <option value="$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/01-scrapy框架介绍/test1.py" />
         <option value="$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/scrapy.cfg" />
         <option value="$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/spiders/microease.py" />
-        <option value="$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/spiders/itcast.py" />
         <option value="$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/settings.py" />
+        <option value="$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/spiders/itcast.py" />
       </list>
     </option>
   </component>
@@ -317,18 +326,18 @@
       <workItem from="1556852734967" duration="1161000" />
       <workItem from="1556855150323" duration="6356000" />
       <workItem from="1556926430591" duration="1309000" />
-      <workItem from="1556936486676" duration="2294000" />
+      <workItem from="1556936486676" duration="4243000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58741000" />
+    <option name="totallyTimeSpent" value="60690000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13432837" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13432837" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -531,17 +540,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/spiders/itcast.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/20 爬虫scrapy框架及案例/myspider/myspider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
