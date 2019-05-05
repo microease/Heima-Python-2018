@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 import scrapy
+import logging
+
+logger = logging.getLogger(__name__)
 
 
 class MicroeaseSpider(scrapy.Spider):
@@ -15,4 +18,6 @@ class MicroeaseSpider(scrapy.Spider):
             item = {}
             item['name'] = li.xpath(".//h3/text()").extract()[0]
             item['title'] = li.xpath(".//h4/text()").extract()[0]
+            item['came_from'] = "huyankai"
+            logger.warning(item)
         print(item)
