@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="aea36b1b-9158-447c-8d0e-1819db3cf6e6" name="默认更改列表" comment="" />
+=======
+    <list default="true" id="dc670a00-7448-44d1-9c5b-9d8d163a1fe2" name="默认更改列表" comment="" />
+>>>>>>> 7a9bc57b08e94d8a78ad21be3066a4674930953e
+    <ignored path="$PROJECT_DIR$/venv/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+<<<<<<< HEAD
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+=======
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/15期/21 数据分析/02-matplotlib折线图/test2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2233">
+              <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+              <folding>
+                <element signature="e#108#144#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/15期/21 数据分析/02-matplotlib折线图/test1.py" />
+        <option value="$PROJECT_DIR$/15期/21 数据分析/02-matplotlib折线图/test2.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+>>>>>>> 7a9bc57b08e94d8a78ad21be3066a4674930953e
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+<<<<<<< HEAD
+      <pane id="ProjectPane" />
+=======
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="15期" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="15期" type="462c0819:PsiDirectoryNode" />
+              <item name="01 网络编程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="15期" type="462c0819:PsiDirectoryNode" />
+              <item name="21 数据分析" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="15期" type="462c0819:PsiDirectoryNode" />
+              <item name="21 数据分析" type="462c0819:PsiDirectoryNode" />
+              <item name="02-matplotlib折线图" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+>>>>>>> 7a9bc57b08e94d8a78ad21be3066a4674930953e
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+>>>>>>> 7a9bc57b08e94d8a78ad21be3066a4674930953e
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+<<<<<<< HEAD
+=======
+  <component name="RunManager" selected="Python.test2">
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Heima-Python-2018" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15期/21 数据分析/02-matplotlib折线图" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15期/21 数据分析/02-matplotlib折线图/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Heima-Python-2018" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15期/21 数据分析/02-matplotlib折线图" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15期/21 数据分析/02-matplotlib折线图/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+>>>>>>> 7a9bc57b08e94d8a78ad21be3066a4674930953e
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+      <changelist id="aea36b1b-9158-447c-8d0e-1819db3cf6e6" name="默认更改列表" comment="" />
+      <created>1557064814129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557064814129</updated>
+      <workItem from="1557064818806" duration="614000" />
+=======
+      <changelist id="dc670a00-7448-44d1-9c5b-9d8d163a1fe2" name="默认更改列表" comment="" />
+      <created>1557106199233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557106199233</updated>
+      <workItem from="1557106206046" duration="15654000" />
+>>>>>>> 7a9bc57b08e94d8a78ad21be3066a4674930953e
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="614000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+=======
+    <option name="totallyTimeSpent" value="15654000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.118336886" />
+>>>>>>> 7a9bc57b08e94d8a78ad21be3066a4674930953e
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+=======
+      <window_info anchor="bottom" id="File Transfer" weight="0.32924107" />
+      <window_info anchor="bottom" id="调试" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.17857143" />
+>>>>>>> 7a9bc57b08e94d8a78ad21be3066a4674930953e
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
+      <window_info anchor="right" id="SciView" />
+=======
+      <window_info active="true" anchor="right" id="SciView" visible="true" weight="0.8534115" />
+>>>>>>> 7a9bc57b08e94d8a78ad21be3066a4674930953e
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+<<<<<<< HEAD
+=======
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1557115353375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/02-matplotlib折线图" />
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1557135168891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/02-matplotlib折线图" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/02-matplotlib折线图/sig_size.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/02-matplotlib折线图/sig_size.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/02-matplotlib折线图/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/02-matplotlib折线图/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2233">
+          <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+          <folding>
+            <element signature="e#108#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+>>>>>>> 7a9bc57b08e94d8a78ad21be3066a4674930953e
+</project>
