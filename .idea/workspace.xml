@@ -56,6 +56,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -74,18 +75,10 @@
               <item name="15期" type="462c0819:PsiDirectoryNode" />
               <item name="21 数据分析" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="15期" type="462c0819:PsiDirectoryNode" />
-              <item name="21 数据分析" type="462c0819:PsiDirectoryNode" />
-              <item name="04-numpy数组" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -240,16 +233,17 @@
       <workItem from="1557281780911" duration="8674000" />
       <workItem from="1557303485630" duration="1714000" />
       <workItem from="1557322913270" duration="2497000" />
+      <workItem from="1557368132927" duration="648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12885000" />
+    <option name="totallyTimeSpent" value="13533000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="993" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12034079" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12153518" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -270,7 +264,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" sideWeight="0.49776787" weight="0.2675906" />
-      <window_info active="true" anchor="right" x="0" y="0" width="434" height="856" id="文档" order="4" sideWeight="0.50223213" side_tool="true" visible="true" weight="0.2675906" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="文档" order="4" sideWeight="0.50223213" side_tool="true" visible="true" weight="0.2675906" />
       <window_info anchor="right" id="Database" order="5" sideWeight="0.49888393" weight="0.32995737" />
     </layout>
   </component>
@@ -278,10 +272,10 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Heima_Python_2018$004.coverage" NAME="004直方图 Coverage Results" MODIFIED="1557287381900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/03-matplotlib常用统计图" />
-    <SUITE FILE_PATH="coverage/Heima_Python_2018$003.coverage" NAME="003多次条形图 Coverage Results" MODIFIED="1557285292746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/03-matplotlib常用统计图" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1557302709366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/04-numpy数组" />
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$004.coverage" NAME="004直方图 Coverage Results" MODIFIED="1557287381900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/03-matplotlib常用统计图" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$005.coverage" NAME="005 Coverage Results" MODIFIED="1557298963694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/03-matplotlib常用统计图" />
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$003.coverage" NAME="003多次条形图 Coverage Results" MODIFIED="1557285292746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/03-matplotlib常用统计图" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/matplotlib/pyplot.py" />
