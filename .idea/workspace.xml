@@ -42,6 +42,7 @@
         <option value="$PROJECT_DIR$/15期/21 数据分析/05-numpy读取本地数据和索引/test4.py" />
         <option value="$PROJECT_DIR$/15期/21 数据分析/05-numpy读取本地数据和索引/USvideos.csv" />
         <option value="$PROJECT_DIR$/15期/21 数据分析/05-numpy读取本地数据和索引/test5.py" />
+        <option value="$PROJECT_DIR$/15期/21 数据分析/07-series和读取外部数据/test1.py" />
       </list>
     </option>
   </component>
@@ -77,6 +78,13 @@
               <item name="15期" type="462c0819:PsiDirectoryNode" />
               <item name="21 数据分析" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="15期" type="462c0819:PsiDirectoryNode" />
+              <item name="21 数据分析" type="462c0819:PsiDirectoryNode" />
+              <item name="07-series和读取外部数据" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -86,6 +94,12 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/15期/21 数据分析/07-series和读取外部数据" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\microease\Documents\GitHub\Heima-Python-2018\15期\21 数据分析\07-series和读取外部数据" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -99,7 +113,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test5">
+  <component name="RunManager" selected="Python.test1">
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Heima-Python-2018" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15期/21 数据分析/07-series和读取外部数据" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15期/21 数据分析/07-series和读取外部数据/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Heima-Python-2018" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,6 +204,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test1" />
         <item itemvalue="Python.test5" />
         <item itemvalue="Python.test4" />
         <item itemvalue="Python.test3" />
@@ -185,22 +222,22 @@
       <option name="presentableId" value="Default" />
       <updated>1557407410615</updated>
       <workItem from="1557407416000" duration="6105000" />
-      <workItem from="1557454172703" duration="1592000" />
+      <workItem from="1557454172703" duration="4573000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7697000" />
+    <option name="totallyTimeSpent" value="10678000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17590618" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13006397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33898306" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5011161" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -224,6 +261,7 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1557460111416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/07-series和读取外部数据" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1557418017969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/05-numpy读取本地数据和索引" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1557411839121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/05-numpy读取本地数据和索引" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1557417305582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/05-numpy读取本地数据和索引" />
@@ -278,6 +316,23 @@
             <element signature="e#108#126#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/07-series和读取外部数据/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/07-series和读取外部数据/dogNames2.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
     </entry>
   </component>
