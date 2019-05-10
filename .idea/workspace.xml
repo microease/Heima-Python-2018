@@ -78,13 +78,6 @@
               <item name="15期" type="462c0819:PsiDirectoryNode" />
               <item name="21 数据分析" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="15期" type="462c0819:PsiDirectoryNode" />
-              <item name="21 数据分析" type="462c0819:PsiDirectoryNode" />
-              <item name="07-series和读取外部数据" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -222,12 +215,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557407410615</updated>
       <workItem from="1557407416000" duration="6105000" />
-      <workItem from="1557454172703" duration="4573000" />
+      <workItem from="1557454172703" duration="7708000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10678000" />
+    <option name="totallyTimeSpent" value="13813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -318,13 +311,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/07-series和读取外部数据/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/15期/21 数据分析/07-series和读取外部数据/dogNames2.csv">
       <provider selected="true" editor-type-id="csv-text-editor">
         <state relative-caret-position="360">
@@ -333,6 +319,13 @@
       </provider>
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/07-series和读取外部数据/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
       </provider>
     </entry>
   </component>
