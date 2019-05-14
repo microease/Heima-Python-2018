@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d5d4762-a77e-47b1-9f70-8081ad19a95d" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/15期/21 数据分析/08-dataframe/dogNames2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15期/21 数据分析/08-dataframe/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15期/21 数据分析/09-统计方法和字符串离散化/IMDB-Movie-Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15期/21 数据分析/09-统计方法和字符串离散化/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15期/21 数据分析/09-统计方法和字符串离散化/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15期/21 数据分析/09-统计方法和字符串离散化/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/21 数据分析/10-数据的合并和分组聚合/directory.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/21 数据分析/10-数据的合并和分组聚合/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15期/21 数据分析/10-数据的合并和分组聚合/test2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +14,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/15期/21 数据分析/10-数据的合并和分组聚合/test2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding>
+                <element signature="e#108#127#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -48,6 +58,8 @@
         <option value="$PROJECT_DIR$/15期/21 数据分析/08-dataframe/test1.py" />
         <option value="$PROJECT_DIR$/15期/21 数据分析/09-统计方法和字符串离散化/test1.py" />
         <option value="$PROJECT_DIR$/15期/21 数据分析/09-统计方法和字符串离散化/test2.py" />
+        <option value="$PROJECT_DIR$/15期/21 数据分析/10-数据的合并和分组聚合/test1.py" />
+        <option value="$PROJECT_DIR$/15期/21 数据分析/10-数据的合并和分组聚合/test2.py" />
       </list>
     </option>
   </component>
@@ -64,6 +76,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,7 +106,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -103,6 +115,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/15期/21 数据分析/10-数据的合并和分组聚合" />
       <recent name="C:\Users\microease\Documents\GitHub\Heima-Python-2018\15期\21 数据分析\10-数据的合并和分组聚合" />
       <recent name="$PROJECT_DIR$/15期/21 数据分析/09-统计方法和字符串离散化" />
       <recent name="$PROJECT_DIR$/15期/21 数据分析/08-dataframe" />
@@ -121,7 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test1 (2)">
+  <component name="RunManager" selected="Python.test1 (3)">
     <configuration name="test1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Heima-Python-2018" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,6 +179,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Heima-Python-2018" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15期/21 数据分析/10-数据的合并和分组聚合" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15期/21 数据分析/10-数据的合并和分组聚合/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Heima-Python-2018" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,28 +215,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15期/21 数据分析/07-series和读取外部数据/test1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test4" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Heima-Python-2018" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15期/21 数据分析/05-numpy读取本地数据和索引" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15期/21 数据分析/05-numpy读取本地数据和索引/test4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -234,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test1 (3)" />
         <item itemvalue="Python.test1 (2)" />
         <item itemvalue="Python.test1 (1)" />
         <item itemvalue="Python.test1" />
         <item itemvalue="Python.test5" />
-        <item itemvalue="Python.test4" />
       </list>
     </recent_temporary>
   </component>
@@ -257,21 +270,23 @@
       <workItem from="1557645065507" duration="4149000" />
       <workItem from="1557716247164" duration="2613000" />
       <workItem from="1557795967911" duration="956000" />
+      <workItem from="1557836182937" duration="4664000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21551000" />
+    <option name="totallyTimeSpent" value="26215000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="993" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13326226" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13471779" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3502825" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946752" weight="0.3920904" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -279,7 +294,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005325" side_tool="true" weight="0.3502825" />
       <window_info anchor="bottom" id="调试" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Python Console" order="13" />
@@ -295,11 +310,12 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Heima_Python_2018$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1557657657150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/08-dataframe" />
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1557411839121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/05-numpy读取本地数据和索引" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1557460111416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/07-series和读取外部数据" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$test1__2_.coverage" NAME="test1 (2) Coverage Results" MODIFIED="1557671575839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/09-统计方法和字符串离散化" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1557418017969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/05-numpy读取本地数据和索引" />
-    <SUITE FILE_PATH="coverage/Heima_Python_2018$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1557411839121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/05-numpy读取本地数据和索引" />
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$test1__3_.coverage" NAME="test1 (3) Coverage Results" MODIFIED="1557842986174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/10-数据的合并和分组聚合" />
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1557657657150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/08-dataframe" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1557417305582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/05-numpy读取本地数据和索引" />
   </component>
   <component name="editorHistoryManager">
@@ -420,6 +436,33 @@
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
       <provider selected="true" editor-type-id="csv-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/10-数据的合并和分组聚合/directory.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/10-数据的合并和分组聚合/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="e#108#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/10-数据的合并和分组聚合/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#108#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
