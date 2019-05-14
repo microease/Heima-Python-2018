@@ -17,7 +17,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,7 +64,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -83,19 +82,28 @@
               <item name="15期" type="462c0819:PsiDirectoryNode" />
               <item name="21 数据分析" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Heima-Python-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Heima-Python-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="15期" type="462c0819:PsiDirectoryNode" />
+              <item name="21 数据分析" type="462c0819:PsiDirectoryNode" />
+              <item name="10-数据的合并和分组聚合" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/15期/21 数据分析/09-统计方法和字符串离散化" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/15期/21 数据分析/10-数据的合并和分组聚合" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\microease\Documents\GitHub\Heima-Python-2018\15期\21 数据分析\10-数据的合并和分组聚合" />
       <recent name="$PROJECT_DIR$/15期/21 数据分析/09-统计方法和字符串离散化" />
       <recent name="$PROJECT_DIR$/15期/21 数据分析/08-dataframe" />
       <recent name="C:\Users\microease\Documents\GitHub\Heima-Python-2018\15期\21 数据分析\07-series和读取外部数据" />
@@ -248,16 +256,17 @@
       <workItem from="1557454172703" duration="7728000" />
       <workItem from="1557645065507" duration="4149000" />
       <workItem from="1557716247164" duration="2613000" />
+      <workItem from="1557795967911" duration="956000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20595000" />
+    <option name="totallyTimeSpent" value="21551000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13219616" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13326226" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -405,6 +414,12 @@
           <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/10-数据的合并和分组聚合/IMDB-Movie-Data.csv">
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
   </component>
 </project>
