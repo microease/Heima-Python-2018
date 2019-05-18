@@ -25,20 +25,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/15期/21 数据分析/21/test1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2008">
-              <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
-              <folding>
-                <element signature="e#108#127#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -78,7 +65,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="994" />
@@ -91,6 +78,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,13 +108,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/15期/21 数据分析/21" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -289,20 +279,21 @@
       <workItem from="1557880928871" duration="4633000" />
       <workItem from="1557929085711" duration="3957000" />
       <workItem from="1557970239037" duration="5384000" />
+      <workItem from="1558164131521" duration="1683000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40189000" />
+    <option name="totallyTimeSpent" value="41872000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="994" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21938232" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2196162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3299435" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32924107" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946752" weight="0.35214448" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -318,7 +309,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="SciView" order="3" sideWeight="0.50091743" visible="true" weight="0.76251334" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.50091743" weight="0.102878466" />
       <window_info anchor="right" id="Database" order="4" sideWeight="0.49908257" weight="0.32995737" />
       <window_info anchor="right" x="0" y="0" width="434" height="856" id="文档" order="5" sideWeight="0.49908257" side_tool="true" visible="true" weight="0.17004265" />
     </layout>
@@ -327,15 +318,15 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Heima_Python_2018$test1__4_.coverage" NAME="test1 (4) Coverage Results" MODIFIED="1557885381017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/11-时间序列" />
-    <SUITE FILE_PATH="coverage/Heima_Python_2018$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1557934535053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/11-时间序列" />
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1557657657150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/08-dataframe" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1557984809493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/21" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$test1__2_.coverage" NAME="test1 (2) Coverage Results" MODIFIED="1557671575839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/09-统计方法和字符串离散化" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$test5.coverage" NAME="test5 Coverage Results" MODIFIED="1557418017969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/05-numpy读取本地数据和索引" />
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$test1__4_.coverage" NAME="test1 (4) Coverage Results" MODIFIED="1557885381017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/11-时间序列" />
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1557934535053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/11-时间序列" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$test1__3_.coverage" NAME="test1 (3) Coverage Results" MODIFIED="1557842986174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/10-数据的合并和分组聚合" />
-    <SUITE FILE_PATH="coverage/Heima_Python_2018$test1__1_.coverage" NAME="test1 (1) Coverage Results" MODIFIED="1557657657150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/08-dataframe" />
-    <SUITE FILE_PATH="coverage/Heima_Python_2018$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1557417305582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/05-numpy读取本地数据和索引" />
     <SUITE FILE_PATH="coverage/Heima_Python_2018$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1557886156683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/11-时间序列" />
+    <SUITE FILE_PATH="coverage/Heima_Python_2018$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1557417305582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15期/21 数据分析/05-numpy读取本地数据和索引" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/15期/21 数据分析/05-numpy读取本地数据和索引/test3.py">
@@ -369,16 +360,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/05-numpy读取本地数据和索引/USvideos.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="160">
-          <caret line="4935" selection-start-line="4935" selection-end-line="4935" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/05-numpy读取本地数据和索引/USvideos.csv" />
     <entry file="file://$PROJECT_DIR$/15期/21 数据分析/05-numpy读取本地数据和索引/test4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -389,26 +371,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/07-series和读取外部数据/dogNames2.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/08-dataframe/dogNames2.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/07-series和读取外部数据/dogNames2.csv" />
+    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/08-dataframe/dogNames2.csv" />
     <entry file="file://$PROJECT_DIR$/15期/21 数据分析/07-series和读取外部数据/test1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -423,16 +387,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/09-统计方法和字符串离散化/IMDB-Movie-Data.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state>
-          <caret column="67" selection-start-column="50" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/09-统计方法和字符串离散化/IMDB-Movie-Data.csv" />
     <entry file="file://$PROJECT_DIR$/15期/21 数据分析/09-统计方法和字符串离散化/test1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="155">
@@ -450,19 +405,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/10-数据的合并和分组聚合/IMDB-Movie-Data.csv">
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/10-数据的合并和分组聚合/directory.csv">
-      <provider selected="true" editor-type-id="csv-text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/10-数据的合并和分组聚合/IMDB-Movie-Data.csv" />
+    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/10-数据的合并和分组聚合/directory.csv" />
     <entry file="file://$PROJECT_DIR$/15期/21 数据分析/10-数据的合并和分组聚合/test1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -520,13 +464,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/21/BeijingPM20100101_20151231.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/15期/21 数据分析/21/BeijingPM20100101_20151231.csv" />
     <entry file="file://$PROJECT_DIR$/15期/21 数据分析/21/test1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2008">
-          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        <state relative-caret-position="653">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="e#108#127#0" expanded="true" />
           </folding>
